@@ -1,0 +1,9 @@
+= Reconstructing the social network of A Game of Thrones 
+
+George R.R. Martin's _A Game of Thrones_ is the first novel of a popular fantasy series called _A Song of Ice and Fire_, which also became a popular TV show. The diagram below depicts part of the cocitation network of the books, where a link between two characters implies that they are mentioned together in several chapters. The color of the nodes of the network indicates the _betweenness_ of the characters, which is a possible measure of how much "central" they are in the social network. 
+
+img::westeros_vips_25_005.png[]
+
+This project contains the Python codes used to scrape the data from the fan-created wiki http://awoiaf.westeros.org/[A Wiki of Ice and Fire], and to construct the cocitation network of the characters in the books. The resulting network is also included in GML (http://graphml.graphdrawing.org/[Graph ML]) format. 
+
+ 
