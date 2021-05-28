@@ -1,0 +1,2042 @@
+Abelar_Hightower               ~ Abelar Hightower, challenger at the tourney at Ashford Meadow.
+Addam                          ~ Addam, a knight.
+Addam_Frey                     ~ Addam Frey, a knight at the Whitewalls tourney, cousin to Lady Butterwell.
+Addam_Marbrand                 ~ Addam Marbrand, a knight in the service of House Lannister. Heir to Ashemark.
+Addam_Osgrey                   ~ Addam Osgrey, son of Eustace Osgrey, slain on the Redgrass Field during the Blackfyre Rebellion.
+Addam_Velaryon                 ~ Addam Velaryon
+Addison_Hill                   ~ Addison Hill, a former member of the Kingsguard.
+Aegon_Blackfyre                ~ Aegon Blackfyre, son of Daemon Blackfyre, killed at the Redgrass Field during the Blackfyre Rebellion.
+Aegon_Frey_(Jinglebell)        ~ Aegon Frey, called Jinglebell. A halfwit fool at the Twins, killed by Catelyn Stark.
+Aegon_Frey_(Bloodborn)         ~ Aegon Frey, called Bloodborn. Eldest son of Ser Aenys Frey. Outlaw of the Riverlands.
+Aegon_I_Targaryen              ~ Aegon I Targaryen, called the Conqueror. First King of the Seven Kingdoms.
+Aegon_II_Targaryen             ~ Aegon II Targaryen, killed in the Dance of the Dragons.
+Aegon_III_Targaryen            ~ Aegon III Targaryen, called the Dragonslayer and Dragonsbane.
+Aegon_IV_Targaryen             ~ Aegon IV Targaryen, called the Unworthy.
+Aegon_V_Targaryen              ~ Aegon V Targaryen, called Egg and the Unlikely.
+Aegon_Targaryen_(son_of_Rhaegar) ~ Aegon Targaryen, infant son of Rhaegar. Killed during the Sack of King's Landing.
+Aegon_Targaryen_(son_of_Aenys_I) ~ Aegon Targaryen, eldest son of King Aenys I Targaryen
+Aegon_Targaryen_(son_of_Baelon) ~ Aegon Targaryen, youngest son of Prince Baelon Targaryen
+Aegon_Targaryen_(son_of_Jaehaerys_I) ~ Aegon Targaryen, eldest son of King Jaehaerys I and Queen Alysanne. Died young.
+Aegor_Rivers                   ~ Aegor Rivers, called "Bittersteel". A legitimized bastard of Aegon IV and rebel to the throne.
+Aelinor_Penrose                ~ Aelinor Penrose, queen to Aerys I.
+Aemma_Arryn                    ~ Aemma Arryn, daughter of Lord Arryn and Princess Daella Targaryen, first wife to King Viserys I Targaryen, mother of Queen Rhaenyra Targaryen.
+Aemon_Blackfyre                ~ Aemon Blackfyre, son of Daemon Blackfyre, killed at the Redgrass Field during the Blackfyre Rebellion.
+Aemon_Costayne                 ~ Aemon Costayne, a singer.
+Aemon_Estermont                ~ Aemon Estermont, eldest son and heir to Lord Eldon Estermont, loyal to King Joffrey.
+Aemon_Rivers                   ~ Aemon Rivers, son of "Bastard" Walder Rivers of house Frey.
+Aemon_Targaryen                ~ Aemon Targaryen, called the Dragonknight and member of the Kingsguard.
+Maester_Aemon                  ~ Aemon Targaryen, a maester in the Night's Watch.
+Aemond_Targaryen               ~ Aemond Targaryen, the brother of Aegon II.
+Aenys_Frey                     ~ Aenys Frey, a knight, third son of Lord Walder Frey.
+Aenys_I_Targaryen              ~ Aenys I Targaryen, Aegon the Conqueror's son.
+Aerion_Targaryen               ~ Aerion Targaryen, called Brightflame.
+Aeron_Greyjoy                  ~ Aeron Greyjoy, called Damphair, eighth son of Lord Quellon Greyjoy, and a priest of the Drowned God.
+Aerys_I_Targaryen              ~ Aerys I Targaryen, second son of King Daeron II, succeeded by his younger brother Maekar.
+Aerys_II_Targaryen             ~ Aerys II Targaryen, last Targaryen King, also known as "the Mad King".
+Aethan                         ~ Aethan
+Aethelmure                     ~ Aethelmure, a Grand Maester of the Citadel, long dead.
+Aggar                          ~ Aggar
+Aggo                           ~ Aggo, a member of Daenerys's khas, and later her bloodrider.
+Aglantine                      ~ Aglantine, a septa.
+Agrivane                       ~ Agrivane, an archmaester.
+Aladale_Wynch                  ~ Aladale Wynch, knight of the Night's Watch
+Alan                           ~ Alan
+Alannys_Harlaw                 ~ Alannys Harlaw, wife of Balon Greyjoy.
+Alaric_of_Eysen                ~ Alaric of Eysen, a singer.
+Alayaya                        ~ Alayaya, daughter of Chataya and whore in her upscale King's Landing brothel.
+Albar_Royce                    ~ Albar Royce, a knight and heir to the Gates of the Moon.
+Albett                         ~ Albett, a new-member of the Night's Watch.
+Alebelly                       ~ Alebelly, a Winterfell guard.
+Alekyne_Florent                ~ Alekyne Florent.
+Alequo_Adarys                  ~ Alequo Adarys, known as "Goldentongue".
+Alerie_Hightower               ~ Alerie Hightower, daughter of Lord Leyton Hightower and wife to Lord Mace Tyrell. Mother of Willas, Garlan, Loras and Margaery Tyrell.
+Alesander_Frey                 ~ Alesander Frey, a singer.
+Alesander_Staedmon             ~ Alesander Staedmon, Lord of Broad Arch, called the Pennylover.
+Alesander_Torrent              ~ Alesander Torrent, Lord of Littlesister.
+Alester_Florent                ~ Alester Florent, Lord of House Florent, Hand of the King to Stannis Baratheon.
+Alester_Norcross               ~ Alester Norcross.
+Alester_Oakheart               ~ Alester Oakheart.
+Alfyn                          ~ Alfyn, called "Crowkiller," a wildling leader.
+Alia                           ~ Alia of Braavos, a singer at King Joffrey's wedding.
+Alicent_Hightower              ~ Alicent Hightower, second wife and queen of Viserys I, mother of Aegon II.
+All-for-Joffrey                ~ All-for-Joffrey.
+Alla_Tyrell                    ~ Alla Tyrell, daughter of ser Leo Tyrell and far cousin to Margaery.
+Allaquo                        ~ Allaquo, a mummer.
+Allar_Deem                     ~ Allar Deem, a brutal captain of the King's Landing City Watch.
+Allard_Seaworth                ~ Allard Seaworth, second son of Ser Davos Seaworth.
+Alliser_Thorne                 ~ Alliser Thorne, knight. Brother of The Night's Watch and master-at-arms of Castle Black.
+Allyria_Dayne                  ~ Allyria Dayne, sister to Ser Arthur Dayne and to Ashara Dayne. Betrothed to Lord Beric Dondarrion.
+Alvyn_Sharp                    ~ Alvyn Sharp
+Alyce                          ~ Alyce
+Alyce_Graceford                ~ Alyce Graceford, Lady of Godsgrace.
+Alyn                           ~ Alyn, a Winterfell guard.
+Alyn_Ambrose                   ~ Alyn Ambrose, a squire, betrothed to Alla Tyrell.
+Alyn_Cockshaw                  ~ Alyn Cockshaw
+Alyn_Connington                ~ Alyn Connington
+Alyn_Estermont                 ~ Alyn Estermont, a knight, son of ser Aemon Estermont, loyal to King Joffrey.
+Alyn_Frey                      ~ Alyn Frey
+Alyn_Haigh                     ~ Alyn Haigh
+Alyn_Hunt                      ~ Alyn Hunt
+Alyn_Stackspear                ~ Alyn Stackspear, a knight of the Westerlands.
+Alyn_Velaryon                  ~ Alyn Velaryon, known as the Oakenfist.
+Alys_Arryn                     ~ Alys Arryn
+Alys_Karstark                  ~ Alys Karstark, only daughter of Lord Rickard Karstark.
+Alysane_Mormont                ~ Alysane Mormont, the daughter of Lady Maege Mormont.
+Alysanne_Bracken               ~ Alysanne Bracken, the daughter of Lord Jonos Bracken.
+Alysanne_Bulwer                ~ Alysanne Bulwer, lady of Blackcrown.
+Alysanne_Hightower             ~ Alysanne Hightower
+Alysanne_Lefford               ~ Alysanne Lefford, Lady of the Golden Tooth.
+Alysanne_of_Tarth              ~ Alysanne of Tarth
+Alysanne_Osgrey                ~ Alysanne Osgrey
+Alysanne_Targaryen             ~ Alysanne Targaryen, sister and wife to King Jaehaerys I Targaryen.
+Alys_Frey                      ~ Alys Frey, wife and cousin to Ser Jared Frey. She is long dead.
+Alyssa_Arryn                   ~ Alyssa Arryn, long-ago Lady of House Arryn, mythical namesake of the waterfall Alyssa's Tears.
+Alyssa_Blackwood               ~ Alyssa Blackwood
+Alyx_Frey                      ~ Alyx Frey
+Amabel                         ~ Amabel
+Amarei_Crakehall               ~ Amarei Crakehall
+Ambrode                        ~ Ambrode
+Ambrose_Butterwell             ~ Ambrose Butterwell
+Amerei_Frey                    ~ Amerei Frey, known as "Gatehouse Ami".
+Amory_Lorch                    ~ Amory Lorch, a landed knight and vile bannerman of House Lannister.
+Andar_Royce                    ~ Andar Royce, a knight and heir to Runestone.
+Anders_Yronwood                ~ Anders Yronwood, foster father of Prince Quentyn Martell. He is titled Warden of the Boneway and the Bloodroyal.
+Andrew_Estermont               ~ Andrew Estermont, a knight, son of Ser Lomas Estermont, loyal to King Stannis.
+Andrey_Charlton                ~ Andrey Charlton, a knight sworn to House Frey, killed by Lannisters.
+Andrey_Dalt                    ~ Andrey Dalt, close companion of Arianne Martell and heir to Lemonwood.
+Andrik                         ~ Andrik, called "the Unsmiling". A powerful raider of the Iron Islands.
+Andros_Brax                    ~ Andros Brax, Lord of Hornvale, killed during the Battle of the Camps.
+Androw_Ashford                 ~ Androw Ashford, a knight at the tourney at Ashford Meadow, oldest son of Lord Ashford.
+Androw_Frey                    ~ Androw Frey
+Anguy                          ~ Anguy, called "the Archer". A skilled archer of the brotherhood without banners.
+Annara_Farring                 ~ Annara Farring, the seventh wife of Lord Walder Frey.
+Antario_Jast                   ~ Antario Jast, a lord sworn to House Lannister, captured by Stark forces at the Battle of Oxcross.
+Anvil_Ryn                      ~ Anvil Ryn
+Anya_Waynwood                  ~ Anya Waynwood, Lady of Ironoaks Castle, keeps Harrold Hardyng as her ward.
+Archibald_Yronwood             ~ Archibald Yronwood, a knight.
+Ardrian_Celtigar               ~ Ardrian Celtigar, Lord of Claw Isle.
+Areo_Hotah                     ~ Areo Hotah, Captain of the Guards of House Martell.
+Argilac                        ~ Argilac, called "the Arrogant". The last Storm King.
+Argrave_the_Defiant            ~ Argrave the Defiant
+Arianne_Martell                ~ Arianne Martell, daughter of Prince Doran, heir to Sunspear.
+Arianne_of_Tarth               ~ Arianne of Tarth
+Arlan_of_Pennytree             ~ Arlan of Pennytree, a hedge knight, master of Dunk.
+Armen                          ~ Armen
+Armond_Caswell                 ~ Armond Caswell
+Arneld                         ~ Arneld
+Arnell                         ~ Arnell, a knight of the Night's Watch; his mother was a Fossoway.
+Arnolf_Karstark                ~ Arnolf Karstark
+Aron_Santagar                  ~ Aron Santagar, master-at-arms of the Red Keep.
+Arrec                          ~ Arrec, the Storm King who lost the Riverlands to the ironborn led by Harwyn Hoare.
+Arron                          ~ Arron, a Night's Watch recruit.
+Arron_Qorgyle                  ~ Arron Qorgyle, a knight, second son of Lord Quentin Qorgyle and companion of Prince Oberyn Martell at King's Landing.
+Artys_Arryn                    ~ Artys Arryn, the Winged Knight.
+Arryk                          ~ Arryk, a famous member of the Kingsguard who slew and was slain by his brother Erryk during the Dance of the Dragons.
+Arryk_(Guard)                  ~ Arryk, called either "Left" or "Right". One of Olenna Redwyne's bodyguards.
+Arson                          ~ Arson
+Arthor_Karstark                ~ Arthor Karstark, the second son of Arnolf Karstark.
+Arthur_Ambrose                 ~ Arthur Ambrose, Lord of Ambrose and sworn to House Tarly.
+Arthur_Dayne                   ~ Arthur Dayne, called "Sword of the Morning". A hero of the Kingsguard. Slain at the Tower of Joy.
+Artos_Stark                    ~ Artos Stark
+Arwood_Frey                    ~ Arwood Frey
+Arwyn_Frey                     ~ Arwyn Frey, first daughter of Lady Annara Farring and Lord Walder Frey.
+Arwyn_Oakheart                 ~ Arwyn Oakheart, Lady of Old Oak.
+Arya_Stark                     ~ Arya Stark, daughter of Lord Eddard Stark, also called Underfoot, Cat of the Canals, and Arry, among others.
+Arys_Oakheart                  ~ Arys Oakheart, member of the Kingsguard and younger son of Lady Arwyn Oakheart.
+Asha_Greyjoy                   ~ Asha Greyjoy, daughter of Lord Balon Greyjoy.
+Ashara_Dayne                   ~ Ashara Dayne, sister to Ser Arthur Dayne. Some say she is the real mother of Jon Snow.
+Lord_Ashford                   ~ Lord Ashford, arranged the Ashford tourney.
+Assadora_of_Ibben              ~ Assadora of Ibben, a prostitute working in Braavos.
+Aubrey_Ambrose                 ~ Aubrey Ambrose, supporter of Daemon Blackfyre.
+Aurane_Waters                  ~ Aurane Waters, called "The Bastard of Driftmark".
+Axell_Florent                  ~ Axell Florent
+Ayrmidon                       ~ Ayrmidon
+Azzak                          ~ Azzak, a child hostage in Meereen, of the Ghazeen family.
+Azor_Ahai                      ~ Azor Ahai, legendary hero of the R'hllor faith.
+Bael                           ~ Bael, called "Bael the Bard".
+Baela_Targaryen                ~ Baela Targaryen, daughter of Prince Daemon Targaryen and Lady Laena Velaryon
+Baelon_Targaryen_(son_of_Aerys) ~ Baelon Targaryen, of Dragonstone
+Baelon_Targaryen_(son_of_Viserys_I) ~ Baelon Targaryen, son of King Viserys I Targaryen and Queen Aemma Arryn.
+Baelor_Blacktyde               ~ Baelor Blacktyde
+Baelor_Hightower               ~ Baelor Hightower, called "Brightsmile", heir to Lord Leyton.
+Baelor_I_Targaryen             ~ Baelor I Targaryen, called "Baelor the Blessed" or "Baelor the Beloved".
+Baelor_Targaryen_(son_of_Daeron_II) ~ Baelor Targaryen, called "Breakspear". Eldest son and heir of King Daeron II until his death.
+Ballabar                       ~ Ballabar, maester of the Arbor.
+Balman_Byrch                   ~ Balman Byrch
+Balon_Botley                   ~ Balon Botley, eldest son of Lord Germund Botley.
+Balon_Greyjoy                  ~ Balon Greyjoy, Lord Reaver of Pyke.
+Balon_Swann                    ~ Balon Swann, a very skilled knight, younger son of Lord Gulian Swann.
+Bandy                          ~ Bandy
+Bannen                         ~ Bannen, a skilled ranger of the Night's Watch.
+Barba_Bracken                  ~ Barba Bracken
+Barbara_Bracken                ~ Barbara Bracken, the daugther of Lord Jonos.
+Barbrey_Dustin                 ~ Barbrey Dustin, Lady of Barrowton.
+Barra                          ~ Barra, a bastard of King Robert I.
+Barre                          ~ Barre, a septon.
+Barristan_Selmy                ~ Barristan Selmy, called "the Bold". Lord Commander of the Kingsguard under both Aerys II and Robert I.
+Barsena_Blackhair              ~ Barsena Blackhair, a pit fighter in Meereen.
+Barth                          ~ Barth
+Barth_(brewer)                 ~ Barth, a brewer who lives near Winterfell.
+Barthogan_Stark                ~ Barthogan Stark, known as Barth Blacksword
+Bass                           ~ Bass
+Bayard_Norcross                ~ Bayard Norcross
+Bearded_Ben                    ~ Bearded Ben, a member of the Night's Watch.
+Beardless_Dick                 ~ Beardless Dick, a member of the brotherhood without banners.
+Becca                          ~ Becca
+Becca_the_Baker                ~ Becca the Baker
+Beck                           ~ Beck
+Bedwyck                        ~ Bedwyck, called "Giant". A diminutive ranger of the Night's Watch.
+Belandra                       ~ Belandra, a servant.
+Belaquo_Bonebreaker            ~ Belaquo Bonebreaker, a pit fighter in Meereen.
+Beldecar                       ~ Beldecar
+Belgrave                       ~ Belgrave
+Belis                          ~ Belis, a pyromancer.
+Bella                          ~ Bella, claims to be a bastard of King Robert I.
+Bellegere_Otherys              ~ Bellegere Otherys, the Black Pearl. Mistress to Aegon IV.
+Bellegere_Otherys_(Courtesan)  ~ Bellegere Otherys, the current Black Pearl.
+Bellena_Hawick                 ~ Bellena Hawick
+Bellonara_Otherys              ~ Bellonara Otherys, the mother of the current Black Pearl.
+Belwas                         ~ Belwas, called "Strong Belwas". A eunuch and former pit-fighter.
+Ben                            ~ Ben, an orphan.
+Ben_(Big_Belly)                ~ Ben, better known as "Big Belly Ben".
+Ben_Blackthumb                 ~ Ben Blackthumb, old blacksmith of Harrenhal.
+Ben_Bones                      ~ Ben Bones, kennelmaster at the Dreadfort.
+Ben_Bushy                      ~ Ben Bushy, known as "Big Ben".
+Ben_Plumm                      ~ Ben Plumm, known as "Brown Ben Plumm".
+Benedar_Belmore                ~ Benedar Belmore, the Lord of Strongsong.
+Benedict                       ~ Benedict
+Benedict_Broom                 ~ Benedict Broom, master-at-arms at Casterly Rock.
+Benfred_Tallhart               ~ Benfred Tallhart, eldest son of Ser Helman Tallhart.
+Benfrey_Frey                   ~ Benfrey Frey, a knight, twentieth son of Lord Walder Frey and husband to Jyanna Frey, his cousin.
+Benjen_Stark                   ~ Benjen Stark, a man of the Night's Watch and First Ranger of Castle Black.
+Benjen_Stark_(Bitter)          ~ Benjen the Bitter, King in the North.
+Benjen_Stark_(Sweet)           ~ Benjen the Sweet, King in the North.
+Bennard_Brune                  ~ Bennard Brune, the Knight of Brownhollow.
+Bennarion_Botley               ~ Bennarion Botley, younger son of Lord Sawane Botley.
+Bennet                         ~ Bennet, a septon.
+Bennis                         ~ Bennis of the Brown Shield, hedge knight in the service of Eustace Osgrey.
+Beqqo                          ~ Beqqo, a fishmonger in Braavos.
+Beren_Tallhart                 ~ Beren Tallhart, second son of Leobald Tallhart.
+Berena_Hornwood                ~ Berena Hornwood, sister of Lord Halys Hornwood and wife to Leobald Tallhart.
+Beric_Dondarrion               ~ Beric Dondarrion, Lord of Blackhaven.
+Beron_Stark                    ~ Beron Stark
+Beron_Blacktyde                ~ Beron Blacktyde
+Bertram_Beesbury               ~ Bertram Beesbury
+Bess_Bracken                   ~ Bess Bracken, the daughter of Lord Jonos.
+Bessa                          ~ Bessa
+Bessa_(Winterfell)             ~ Bessa, a tavern wench.
+Beth_Cassel                    ~ Beth Cassel, daughter of Rodrik Cassel.
+Bethany_(Blushing_Bethany)     ~ Bethany (Blushing Bethany)
+Bethany_Bolton                 ~ Bethany Bolton, the second wife of Lord Roose Bolton
+Bethany_Bracken                ~ Bethany Bracken
+Bethany_Fair-Fingers           ~ Bethany Fair-Fingers
+Bethany_Redwyne                ~ Bethany Redwyne, wife to Lord Mathis Rowan.
+Bethany_Rosby                  ~ Bethany Rosby, sixth wife to Lord Walder Frey.
+Betharios_of_Braavos           ~ Betharios of Braavos
+Bhakaz_zo_Loraq                ~ Bhakaz zo Loraq, a child hostage in Meereen.
+Bharbo                         ~ Bharbo, the father of Khal Drogo.
+Big_Boil                       ~ Big Boil
+Biter                          ~ Biter, a cannibal and prisoner in the black cells of King's Landing.
+Black_Bernarr                  ~ Black Bernarr, a member of the Night's Watch.
+Black_Jack_Bulwer              ~ Black Jack Bulwer, a ranger of the Night's Watch.
+Blane                          ~ Blane, a member of the Night's Watch.
+Doss                           ~ Blind Doss, a wildling leader.
+Bloodbeard                     ~ Bloodbeard, commander of the Company of the Cat.
+Bluetooth                      ~ Bluetooth, a longship captain.
+Bodger                         ~ Bodger
+Bonifer_Hasty                  ~ Bonifer Hasty, called "the Good". The pious leader of the "Holy Hundred".
+Borcas                         ~ Borcas
+Boremund_Harlaw                ~ Boremund Harlaw
+Boros_Blount                   ~ Boros Blount, a knight of the Kingsguard, known to be a coward.
+Borroq                         ~ Borroq, a skinchanger.
+Bors                           ~ Bors, a servant.
+Bowen_Marsh                    ~ Bowen Marsh, First Steward of the Night's Watch.
+Boy                            ~ Boy, an orphan.
+Bradamar_Frey                  ~ Bradamar Frey
+Brandon_Norrey                 ~ Brandon Norrey, the Norrey.
+Brandon_Stark                  ~ Brandon Stark, Eldest son of Lord Rickard Stark and older brother of Ned.
+Brandon_Stark_(son_of_Cregan)  ~ Brandon Stark, a former Lord of Winterfell.
+Bran_Stark                     ~ Brandon Stark, son of Lord Eddard, simply called "Bran".
+Bran_the_Builder               ~ Bran the Builder, legendary figure who built The Wall.
+Brandon_Stark_(Bad)            ~ Brandon the Bad, King in the North.
+Brandon_Stark_(Burner)         ~ Brandon the Burner, a legendary King in the North.
+Brandon_Stark_(the_daughterless) ~ Brandon the Daughterless.
+Brandon_Stark_(Shipwright)     ~ Brandon the Shipwright, a legendary King in the North.
+Brandon_Tallhart               ~ Brandon Tallhart
+Branston_Cuy                   ~ Branston Cuy, Lord of Sunflower Hall.
+Brea                           ~ Brea, daughter of Brusco.
+Brella                         ~ Brella
+Brenett                        ~ Brenett
+Briar                          ~ Briar, a skinchanger.
+Brienne_of_Tarth               ~ Brienne of Tarth, only living daughter of Lord Selwyn Tarth.
+Brogg                          ~ Brogg, a wildling leader.
+Bronn                          ~ Bronn, a dangerous mercenary known to be exceptionally shrewd and agile.
+Brown_Bernarr                  ~ Brown Bernarr, a member of the Night's Watch.
+Brusco                         ~ Brusco, a Braavosi fishmonger.
+Bryan_Frey                     ~ Bryan Frey
+Bryan_Fossoway                 ~ Bryan Fossoway, a member of House Fossoway of Cider Hall, the Red Apple Fossoways.
+Bryan_of_Oldtown               ~ Bryan of Oldtown, a merchant-adventurer.
+Bryce_Caron                    ~ Bryce Caron, Lord of Nightsong and of the Marches. Bryce the Orange of King Renly's Rainbow Guard.
+Bryen                          ~ Bryen
+Bryen_Caron                    ~ Bryen Caron, long dead Lord of Nightsong and of the Marches, father to Lord Bryce Caron and to Ser Rolland Storm.
+Bryen_Farring                  ~ Bryen Farring, royal squire of King Stannis.
+Brynden_Rivers                 ~ Brynden Rivers, Lord Bloodraven. Bastard son of Aegon IV.
+Brynden_Tully                  ~ Brynden Tully, called "the Blackfish", younger brother to Lord Hoster Tully.
+Buford_Bulwer                  ~ Buford Bulwer
+Bump                           ~ Bump, a wildling child.
+Burton_Crakehall               ~ Burton Crakehall, a knight, younger brother to Lord Roland Crakehall.
+Butterbumps                    ~ Butterbumps, fat fool of the Tyrell household.
+Buu                            ~ Buu
+Byam_Flint                     ~ Byam Flint, a member of the Night's Watch.
+Byan_Votyris                   ~ Byan Votyris
+Byren_Flowers                  ~ Byren Flowers, called "Black Byren". Supporter of Daemon Blackfyre.
+Byron                          ~ Byron, a hedge knight.
+Cadwyl                         ~ Cadwyl
+Cadwyn                         ~ Cadwyn
+Lord_Cafferen                  ~ Lord Cafferen, Lord of Faunton during Robert's Rebellion.
+Craghas_Drahar                 ~ Craghas Drahar
+Caleotte                       ~ Caleotte
+Calon                          ~ Calon, a Winterfell boy, Cayn's son.
+Camarron_of_the_Count          ~ Camarron of the Count, a pit fighter in Meereen.
+Canker_Jeyne                   ~ Canker Jeyne, a dockside prostitute in Braavos.
+Carellen_Smallwood             ~ Carellen Smallwood, daughter of Lord Theomar Smallwood.
+Carolei_Waynwood               ~ Carolei Waynwood
+Carrot                         ~ Carrot, a mule-handler.
+Cass                           ~ Cass
+Cassana_Estermont              ~ Cassana Estermont of House Estermont, wife to Lord Steffon Baratheon and mother of King Robert, Lord Stannis and Lord Renly.
+Cassella_Vaith                 ~ Cassella Vaith
+Lord_Caswell                   ~ Lord Caswell, Lord of Bitterbridge and father of Lorent Caswell.
+Castos                         ~ Castos, an Archmaester.
+Catelyn_Bracken                ~ Catelyn Bracken, the daughter of Lord Jonos Bracken.
+Catelyn_Tully                  ~ Catelyn Tully, a daughter of House Tully and wife to Eddard Stark.
+Cayn                           ~ Cayn, a Winterfell guard.
+Cedra                          ~ Cedra, a servant.
+Cedric_Payne                   ~ Cedric Payne
+Cedrik_Storm                   ~ Cedrik Storm
+Cellador                       ~ Cellador, a septon and brother of the Night's Watch.
+Cerenna_Lannister              ~ Cerenna Lannister, daughter of Stafford Lannister.
+Cerrick                        ~ Cerrick, maester at Coldmoat.
+Cersei_Frey                    ~ Cersei Frey, called "Little Bee", daughter of Ser Raymund Frey.
+Cersei_Lannister               ~ Cersei Lannister, daughter of Lord Tywin, wife of King Robert, twin to Ser Jaime.
+Cetheres                       ~ Cetheres, an Archmaester.
+Chataya                        ~ Chataya, mistress of an upscale brothel in King's Landing.
+Chayle                         ~ Chayle, septon of Winterfell.
+Chella                         ~ Chella, a member of the Black Ears.
+Chett                          ~ Chett, a steward of the Night's Watch.
+Cheyk                          ~ Cheyk, the father of Chella.
+Chiggen                        ~ Chiggen, a mercenary.
+Chiswyck                       ~ Chiswyck, a soldier under Ser Gregor Clegane's command.
+Clarence_Charlton              ~ Clarence Charlton, a knight at the Whitewalls Tourney.
+Clarence_Crabb                 ~ Clarence Crabb
+Clarence_Crabb_(Short)         ~ Clarence Crabb, called "the Short".
+Clarent_Crakehall              ~ Clarent Crakehall, a knight during Dance of the Dragons.
+Clayton_Suggs                  ~ Clayton Suggs, a knight.
+Clement                        ~ Clement, a brother on the Quiet Isle.
+Clement_Crabb                  ~ Clement Crabb
+Clement_Piper                  ~ Clement Piper, Lord of Pinkmaiden.
+Cleon                          ~ Cleon, a slave of Grazdan Mo Ullhor, also a butcher and cook.
+Cleos_Frey                     ~ Cleos Frey, a knight, eldest son of Ser Emmon Frey and cousin to Lannisters.
+Cletus_Yronwood                ~ Cletus Yronwood, the son of Lord Anders Yronwood.
+Cley_Cerwyn                    ~ Cley Cerwyn, heir to Cerwyn.
+Cleyton_Caswell                ~ Cleyton Caswell, suitor of Rohanne Webber.
+Clifford_Conklyn               ~ Clifford Conklyn, claimant to Lady Webber's Leafy Lake.
+Clubfoot_Karl                  ~ Clubfoot Karl, a steward of the Night's Watch.
+Clydas                         ~ Clydas, steward of the Night's Watch.
+Cohollo                        ~ Cohollo, the oldest of Khal Drogo's bloodriders.
+Coldhands                      ~ Coldhands, a mysterious figure from beyond the Wall that can control ravens. This ability suggests he is a skinchanger.
+Colemon                        ~ Colemon, maester of the Eyrie.
+Colen_of_Greenpools            ~ Colen of Greenpools, a hedge knight at the service of Lord Renly Baratheon.
+Colin_Florent                  ~ Colin Florent, brother to Alester Florent.
+Collio_Quaynis                 ~ Collio Quaynis
+Colmar_Frey                    ~ Colmar Frey
+Conn                           ~ Conn
+Conwy                          ~ Conwy, a recruiter of the Night's Watch.
+Coratt                         ~ Coratt, the father of Conn.
+Corliss_Penny                  ~ Corliss Penny, a knight.
+Corlys_Velaryon                ~ Corlys Velaryon
+Cortnay_Penrose                ~ Cortnay Penrose, a knight and castellan of Storm's End.
+Cosgrove                       ~ Cosgrove
+Cossomo                        ~ Cossomo, a magician in Braavos.
+Cotter_Pyke                    ~ Cotter Pyke, commander at Eastwatch-by-the-Sea.
+Courtenay_Greenhill            ~ Courtenay Greenhill, a household knight.
+Cragorn                        ~ Cragorn, a member of Euron Greyjoy's crew.
+Craster                        ~ Craster, a brutal wildling friend of the Night's Watch.
+Crawn                          ~ Crawn
+Cregan_Karstark                ~ Cregan Karstark, son of Arnolf Karstark.
+Cregan_Stark                   ~ Cregan Stark, a renowned warrior who once fought the Dragonknight.
+Creighton_Longbough            ~ Creighton Longbough, a hedge knight.
+Creighton_Redfort              ~ Creighton Redfort, the son of Lord Horton Redfort.
+Cressen                        ~ Cressen, old maester at Dragonstone.
+Criston_Cole                   ~ Criston Cole
+Cuger                          ~ Cuger, a new member of the Night's Watch.
+Cutjack                        ~ Cutjack
+Cynthea_Frey                   ~ Cynthea Frey
+Cyrenna_Swann                  ~ Cyrenna Swann
+Daario_Naharis                 ~ Daario Naharis, the captain of the Stormcrows.
+Dacey_Mormont                  ~ Dacey Mormont, a warrior and heiress of Bear Island.
+Dacks                          ~ Dacks, a squire.
+Daegon_Shepherd                ~ Daegon Shepherd
+Daella_Targaryen_(daughter_of_Jaehaerys_I) ~ Daella Targaryen, daughter of King Jaehaerys I Targaryen and Alysanne Targaryen, mother of Aemma Arryn.
+Daella_Targaryen_(daughter_of_Maekar_I) ~ Daella Targaryen, daughter of Maekar I Targaryen.
+Daemon_I_Blackfyre             ~ Daemon I Blackfyre, a Targaryen Great Bastard legitimized, leader of the Blackfyre Rebellion.
+Daemon_II_Blackfyre            ~ Daemon II Blackfyre, third son of Daemon Blackfyre.
+Daemon_Sand                    ~ Daemon Sand, a knight, called "The Bastard of Godsgrace".
+Daemon_Targaryen               ~ Daemon Targaryen, younger brother of King Viserys I Targaryen and husband of Rhaenyra Targaryen.
+Daena_Targaryen                ~ Daena Targaryen, sister and wife of King Baelor I Targaryen, and the mother of Daemon Blackfyre. She was called "the Defiant".
+Daenerys_Targaryen_(daughter_of_Aegon_IV) ~ Daenerys Targaryen, the daughter of Aegon IV.
+Daenerys_Targaryen             ~ Daenerys Targaryen, the last known family member of House Targaryen.
+Daeron_I_Targaryen             ~ Daeron I Targaryen, called the "Young Dragon"
+Daeron_II_Targaryen            ~ Daeron II Targaryen, called the Good.
+Daeron_Targaryen_(son_of_Viserys_I) ~ Daeron Targaryen, third son of Viserys I by Alicent Hightower.
+Daeron_Targaryen_(son_of_Maekar_I) ~ Daeron Targaryen, eldest son of Maekar I Targaryen. Also known as "the Drunken".
+Daeron_Vaith                   ~ Daeron Vaith, Lord of the Red Dunes.
+Daeryssa                       ~ Daeryssa, Princess saved by Serwyn of the Mirror Shield.
+Dafyn_Vance                    ~ Dafyn Vance, a knight of the Riverlands.
+Dagmer                         ~ Dagmer, called "Dagmer Cleftjaw" and "the Cleftjaw". An infamous raider of the Ironmen.
+Dagon_Ironmaker                ~ Dagon Ironmaker, grandson of Erik Ironmaker.
+Dagon_Greyjoy                  ~ Dagon Greyjoy
+Dagos_Manwoody                 ~ Dagos Manwoody, Lord of Kingsgrave.
+Dake                           ~ Dake, a sheep thief.
+Dake_(Guard)                   ~ Dake, a guard.
+Dalbridge                      ~ Dalbridge, a veteran ranger of the Night's Watch.
+Dale_Drumm                     ~ Dale Drumm
+Dale_Seaworth                  ~ Dale Seaworth, eldest son of Ser Davos Seaworth and his heir.
+Dalla                          ~ Dalla
+Dalla_(Dragonstone)            ~ Dalla, a servant on Dragonstone.
+Damion_Lannister               ~ Damion Lannister, appointed castellan of Casterly Rock.
+Damon_Dance-for-Me             ~ Damon, called "Damon Dance-for-Me", one of Ramsay Bolton's Bastard's Boys.
+Damon_Lannister_(Lord)         ~ Daemon Lannister, the Grey Lion
+Damon_Lannister_(son_of_Jason) ~ Damon Lannister, eldest son of Ser Jason Lannister (son of Gerold)
+Damon_Paege                    ~ Damon Paege, a knight.
+Damon_Shett                    ~ Damon Shett, the Knight of Gull Tower.
+Damon_Vypren                   ~ Damon Vypren, a knight and heir to Lord Lucias Vypern.
+Dan                            ~ Dan, called Hempen Dan. A wildling raider.
+Dancy                          ~ Dancy, a whore at Chataya's brothel.
+Danelle_Lothston               ~ Danelle Lothston
+Danny_Flint                    ~ Danny Flint
+Danos_Slynt                    ~ Danos Slynt, son of Janos Slynt.
+Danwell_Frey                   ~ Danwell Frey, a knight, tenth son of Lord Walder Frey and husband to Lady Wynafrei Whent.
+Dareon                         ~ Dareon, an apprentice singer made to join the Night's Watch.
+Darla_Deddings                 ~ Darla Deddings
+Darlessa_Marbrand              ~ Darlessa Marbrand, mother of Tyrek Lannister.
+Daryn_Hornwood                 ~ Daryn Hornwood, heir to Hornwood.
+Daughter_of_the_Dusk           ~ Daughter of the Dusk, a courtesan.
+Daven_Lannister                ~ Daven Lannister, a valiant knight, son of Ser Stafford Lannister.
+Davos_Seaworth                 ~ Davos Seaworth, the "Onion Knight". A landed knight loyal to Stannis Baratheon.
+Deana_Hardyng                  ~ Deana Hardyng
+Del                            ~ Del, a wildling raider.
+Delena_Florent                 ~ Delena Florent, mother of King Robert's bastard Edric Storm.
+Della_Frey                     ~ Della Frey
+Delonne_Allyrion               ~ Delonne Allyrion
+Delp                           ~ Delp, a guard of Riverrun.
+Denestan                       ~ Denestan
+Dennet                         ~ Dennet, a knight of the brotherhood without banners.
+Dennis_Plumm                   ~ Dennis Plumm
+Denyo_Terys                    ~ Denyo Terys
+Denys_Arryn                    ~ Denys Arryn, "the Darling of the Vale", a knight, heir to his cousin Lord Jon Arryn.
+Denys_Darklyn                  ~ Denys Darklyn
+Denys_Drumm                    ~ Denys Drumm
+Denys_Mallister                ~ Denys Mallister, an old and valorous knight, commander at the Shadow Tower.
+Denys_Redwyne                  ~ Denys Redwyne, a squire.
+Denyse_Hightower               ~ Denyse Hightower
+Dermot                         ~ Dermot of the Rainwood, a knight.
+Desmond                        ~ Desmond, a guard of Winterfell.
+Desmond_Grell                  ~ Desmond Grell, a knight and master-at-arms of Riverrun.
+Desmond_Redwyne                ~ Desmond Redwyne
+Devan_Seaworth                 ~ Devan Seaworth, a squire of Stannis Baratheon.
+Devyn_Sealskinner              ~ Devyn Sealskinner, a wildling leader.
+Deziel_Dalt                    ~ Deziel Dalt, the Knight of Lemonwood.
+Dhazzar                        ~ Dhazzar, called "the Dancer", a child hostage in Meereen.
+Dick                           ~ Dick, known as Fletcher Dick, the most skilled archer of Kingswood Brotherhood.
+Dick_Crabb                     ~ Dick Crabb
+Dick_Follard                   ~ Dick Follard, a member of the Night's Watch known as "Deaf Dick"
+Dickon_Frey                    ~ Dickon Frey
+Dickon_Manwoody                ~ Dickon Manwoody, second son of Lord Dagos Manwoody.
+Dickon_Tarly                   ~ Dickon Tarly, son of Lord Randyll Tarly and heir of Horn Hill.
+Dirk                           ~ Dirk, a member of the Night's Watch.
+Dobber                         ~ Dobber
+Dolf                           ~ Dolf son of Holger, Shagga's father.
+Domeric_Bolton                 ~ Domeric Bolton, dead son of Lord Roose Bolton and heir.
+Donal_Noye                     ~ Donal Noye, one-armed blacksmith of the Night's Watch at Castle Black, formerly of Storm's End.
+Donel_Greyjoy                  ~ Donel Greyjoy
+Donella_Hornwood               ~ Donella Hornwood, Lady of Hornwood.
+Donnel_Drumm                   ~ Donnel Drumm
+Donnel_Haigh                   ~ Donnel Haigh, knight of the Riverlands, at the service of House Frey.
+Donnel_Hill                    ~ Donnel Hill, called "Sweet Donnell Hill" of the Night's Watch.
+Donnel_Locke                   ~ Donnel Locke, a knight, heir of Oldcastle.
+Donnel_of_Duskendale           ~ Donnel of Duskendale, a knight in Daeron II Targaryen's Kingsguard.
+Donnel_Waynwood                ~ Donnel Waynwood, knight of the Bloody Gate and second son of Lady Anya Waynwood.
+Donnis                         ~ Donnis
+Donnor_Stark                   ~ Donnor Stark
+Dontos_Hollard                 ~ Dontos Hollard, called "the Red". A drunkard knight, the last of his House.
+Donyse                         ~ Donyse, a septa in King's Landing.
+Doran_Martell                  ~ Doran Martell, Lord of Sunspear and Prince of Dorne.
+Dorcas                         ~ Dorcas, a handmaiden of Cersei Lannister.
+Dorea_Sand                     ~ Dorea Sand, seventh of the Sand Snakes, illegitimate daughter of Oberyn Martell and Ellaria Sand.
+Doreah                         ~ Doreah, a handmaiden of Daenerys Targaryen and former pleasure slave.
+Dormund                        ~ Dormund, one of many Tormund Giantsbane's sons.
+Dornish_Dilly                  ~ Dornish Dilly, a member of the Night's Watch.
+Dorren_Stark                   ~ Dorren Stark
+Draqaz                         ~ Draqaz, a child hostage in Meereen.
+Drennan                        ~ Drennan
+Drogo                          ~ Drogo, an undefeated Dothraki khal.
+Dryn                           ~ Dryn, a son of Tormund Giants-bane.
+Dudley                         ~ Dudley
+Dunaver                        ~ Dunaver, a knight at Harrenhal in Tywin's service.
+Dunk                           ~ Duncan, called "Ser Duncan the Tall". The Hedge Knight. Later Lord Commander of the Kingsguard.
+Duncan_Targaryen               ~ Duncan Targaryen, called Duncan the Small and the Prince of Dragonflies. Son of Aegon V.
+Dunsen                         ~ Dunsen, called "Shitmouth". A soldier under Gregor Clegane.
+Dunstan_Drumm                  ~ Dunstan Drumm
+Duram_Bar_Emmon                ~ Duram Bar Emmon, Lord of Sharp Point.
+Durran                         ~ Durran, called "Durran Godsgrief". The semi-legendary first Storm King.
+Dyah                           ~ Dyah
+Dykk_Harlaw                    ~ Dykk Harlaw, an Ironborn raider placed under Theon's authority.
+Dywen                          ~ Dywen, a veteran ranger of the Night's Watch.
+Easy                           ~ Easy, a member of the Night's Watch.
+Ebben                          ~ Ebben, one of Qhorin's rangers in the Night's Watch.
+Ebrose                         ~ Ebrose, an Archmaester at the Citadel.
+Eddara_Tallhart                ~ Eddara Tallhart
+Eddard_Karstark                ~ Eddard Karstark, third son of Rickard Karstark.
+Eddard_Stark                   ~ Eddard Stark, Lord of Winterfell and Lord Protector of the North.
+Edderion_Stark                 ~ Edderion Stark
+Eddison_Tollett                ~ Eddison Tollett, a squire of the Night's Watch, called "Dolorous Edd".
+Eden_Risley                    ~ Eden Risley
+Edgerran_Oakheart              ~ Edgerran Oakheart
+Edmund_Ambrose                 ~ Edmund Ambrose
+Edmure_Tully                   ~ Edmure Tully, a knight, only son and heir of Lord Hoster Tully.
+Edmyn_Tully                    ~ Edmyn Tully, first Lord Tully of Riverrun.
+Edric_Dayne                    ~ Edric Dayne, the young Lord of Starfall, squire to Lord Beric Dondarrion.
+Edric_Storm                    ~ Edric Storm, a bastard of Robert Baratheon and Delena Florent, fostered at Dragonstone.
+Edrick_Stark                   ~ Edrick Stark
+Edwyd_Fossoway                 ~ Edwyd Fossoway, a knight of the Red Apple Fossoways.
+Edwyle_Stark                   ~ Edwyle Stark, long dead Lord of Winterfell, father of Lord Rickard and grandfather of Lord Eddard.
+Edwyn_Frey                     ~ Edwyn Frey, son of ser Ryman Frey and husband to Janyce Hunter.
+Edwyn_Osgrey                   ~ Edwyn Osgrey, son of Eustace Osgrey, slain on the Redgrass Field.
+Edwyn_Stark                    ~ Edwyn Stark
+Eggon                          ~ Eggon, a soldier under Ser Gregor Clegane.
+Eglantine                      ~ Eglantine, a septa.
+Egon_Emeros                    ~ Egon Emeros
+Elaena_Targaryen               ~ Elaena Targaryen
+Elbert_Arryn                   ~ Elbert Arryn, Jon Arryn's nephew, killed by King Aerys II Targaryen.
+Elder_Brother                  ~ Elder Brother, the Elder Brother on the Quiet Isle.
+Eldiss                         ~ Eldiss
+Eldon_Estermont                ~ Eldon Estermont, the old Lord of Greenstone.
+Eldred_Codd                    ~ Eldred Codd
+Eleanor_Mooton                 ~ Eleanor Mooton, the heir of House Mooton.
+Eleyna_Westerling              ~ Eleyna Westerling, daughter of Lord Gawen Westerling.
+Elia_Sand                      ~ Elia Sand, fifth of the Sand Snakes, illegitimate daughter of Oberyn Martell and Ellaria Sand.
+Elia_Martell                   ~ Elia Martell, sister to Prince Doran Martell and wife of Prince Rhaegar Targaryen.
+Elinor_Tyrell                  ~ Elinor Tyrell, daughter of Ser Theodore Tyrell and betrothed to Alyn Ambrose. Cousin to Margaery.
+Ellaria_Sand                   ~ Ellaria Sand, paramour of Oberyn Martell and mother of the four youngest Sand Snakes. Bastard daughter of Lord Harman Uller.
+Ellery_Vance                   ~ Ellery Vance
+Ellyn_Tarbeck                  ~ Ellyn Tarbeck, Lady wife of Lord Tarbeck, killed in the extermination of Houses Tarbeck and Reyne.
+Elmar_Frey                     ~ Elmar Frey, twenty-eighth son of Lord Walder Frey.
+Elron                          ~ Elron
+Elwood                         ~ Elwood
+Elwood_Meadows                 ~ Elwood Meadows, Lord of Grassy Vale.
+Elyana_Vypren                  ~ Elyana Vypren
+Elyas_Willum                   ~ Elyas Willum, Lord Willum's second son.
+Elyn_Norridge                  ~ Elyn Norridge
+Elys_Waynwood                  ~ Elys Waynwood
+Elys_Westerling                ~ Elys Westerling, a knight of House Westerling during the War of the Usurper.
+Elza                           ~ Elza, or Ella, a deceased weaver slave once owned by Grazdan zo Galare, whose name he has forgotten.
+Emberlei_Frey                  ~ Emberlei Frey
+Emma                           ~ Emma
+Emmon_Cuy                      ~ Emmon Cuy, a knight called "the Yellow". One of Renly's Rainbow Guard.
+Emmon_Frey                     ~ Emmon Frey, second son of Lord Walder Frey, husband to Genna Lannister.
+Emmond                         ~ Emmond, a Drowned Man.
+Emphyria_Vance                 ~ Emphyria Vance
+Emrick                         ~ Emrick, a Night's Watch recruit.
+Endehar                        ~ Endehar, an ironborn raider placed under Theon's authority.
+Endrew_Tarth                   ~ Endrew Tarth, a knight of the Night's Watch.
+Enger                          ~ Enger
+Eon_Hunter                     ~ Eon Hunter, old Lord of Longbow Hall.
+Erena_Glover                   ~ Erena Glover.
+Erik_Ironmaker                 ~ Erik Ironmaker, an old ironborn raider.
+Ermesande_Hayford              ~ Ermesande Hayford, the infant Lady of Hayford.
+Eroeh                          ~ Eroeh, a Lhazareen.
+Erreck                         ~ Erreck
+Erreg                          ~ Erreg
+Erren_Florent                  ~ Erren Florent, a knight, son of Ser Ryam Florent.
+Errok                          ~ Errok
+Erryk                          ~ Erryk, a famous member of the Kingsguard who slew and was slain by his brother Arryk during the Dance of the Dragons.
+Erryk_(Guard)                  ~ Erryk, called either "Left" or "Right". One of Olenna Redwyne's bodyguards.
+Esgred                         ~ Esgred, mother of Sigrin.
+Ethan_Glover                   ~ Ethan Glover, former squire to Brandon Stark.
+Euron_Greyjoy                  ~ Euron Greyjoy, called "Crow's Eye", fifth son of Lord Quellon Greyjoy.
+Eustace_(Braavos)              ~ Eustace, a disgraced septon in Braavos.
+Eustace_(Dance_of_the_Dragons) ~ Eustace, a septon at the Red Keep during the reign of Viserys I.
+Eustace_Brune                  ~ Eustace Brune
+Eustace_Hunter                 ~ Eustace Hunter, the son of Lord Eon Hunter.
+Eustace_Osgrey                 ~ Eustace Osgrey, a landed knight.
+Eyron_Stark                    ~ Eyron Stark
+Ezzara                         ~ Ezzara, a Blue Grace of Meereen.
+Ezzelyno                       ~ Ezzelyno, a red priest of R'hllor.
+Falena_Stokeworth              ~ Falena Stokeworth
+Falia_Flowers                  ~ Falia Flowers, the bastard daughter of Lord Hewett.
+Falyse_Stokeworth              ~ Falyse Stokeworth, heiress of Stokeworth and wife to Ser Balman Byrch.
+Farlen                         ~ Farlen, kennelmaster of Winterfell.
+House_Farman                   ~ Lord Farman of Fair Isle, raided by Dagon Greyjoy's Ironmen.
+Fearless_Ithoke                ~ Fearless Ithoke, a pit fighter in Meereen.
+House_Fell                     ~ Lord Fell of Felwood
+Fern                           ~ Fern
+Ferny                          ~ Ferny
+Ferrego_Antaryon               ~ Ferrego Antaryon, Sealord of Braavos.
+Ferret                         ~ Ferret
+Flement_Brax                   ~ Flement Brax, a knight of the Westerlands, third son of Lord Andros Brax.
+Fogo                           ~ Fogo
+Forley_Prester                 ~ Forley Prester, a knight, cousin to Lord Garrison Prester of Feastfires.
+Fornio                         ~ Fornio
+Franklyn_Fowler                ~ Franklyn Fowler, Lord of Skyreach.
+Franklyn_Frey                  ~ Franklyn Frey
+Fralegg                        ~ Fralegg
+Frenken                        ~ Frenken, maester of Stokeworth.
+Frenya                         ~ Frenya, a wildling spearwife.
+Frynne                         ~ Frynne, the daughter of a smith.
+Gage                           ~ Gage, head cook at Winterfell.
+Galazza_Galare                 ~ Galazza Galare, the Green Grace.
+Galbart_Glover                 ~ Galbart Glover, Master of Deepwood Motte.
+Galladon_of_Morne              ~ Galladon of Morne, a legendary knight.
+Galladon_of_Tarth              ~ Galladon of Tarth
+Gallard                        ~ Gallard, an archmaester of the Citadel.
+Galt                           ~ Galt, a Stone Crow.
+Galtry_the_Green               ~ Galtry the Green
+Galyeon_of_Cuy                 ~ Galyeon of Cuy, a singer.
+Gared                          ~ Gared, an earless veteran ranger of the Night's Watch.
+Gareth_Clifton                 ~ Gareth Clifton, a knight and husband to Lady Jeyne Farman.
+Gareth_the_Grey                ~ Gareth the Grey
+Garigus                        ~ Garigus, a Pyromancer.
+Garin_(Orphans)                ~ Garin, an orphan of the Greenblood and old friend of Princess Arianne Martell.
+Garin_(Prince)                 ~ Garin, a Prince of the Rhoynar.
+Gariss                         ~ Gariss, a guard of Winterfell.
+Garizon                        ~ Garizon, an Archmaester of the Citadel.
+Garlan_Tyrell                  ~ Garlan Tyrell, called "the Gallant", knight and second son of Lord Mace Tyrell.
+Garrett_Flowers                ~ Garrett Flowers, bastard son of Garth Tyrell.
+Garrett_Paege                  ~ Garrett Paege, a squire.
+Garrison_Prester               ~ Garrison Prester, Lord of Feastfires.
+Garse_Flowers                  ~ Garse Flowers, bastard son of Garth Tyrell.
+Garse_Goodbrook                ~ Garse Goodbrook, husband of Kyra Frey.
+Garth_of_Greenaway             ~ Garth of Greenaway, a ranger of the Night's Watch.
+Garth_Gardener_(Greenhand)     ~ Garth Greenhand, legendary first king of the Reach.
+Garth_XII_Gardener             ~ Garth XII Gardener, King in the Reach.
+Garth_Greenfield               ~ Garth Greenfield
+Garth_Greyfeather              ~ Garth Greyfeather a ranger of the Night's Watch.
+Garth_Hightower                ~ Garth Hightower, a knight and fourth son of Lord Leyton Hightower.
+Garth_of_Oldtown               ~ Garth of Oldtown, a ranger of the Night's Watch.
+Garth_Tyrell                   ~ Garth Tyrell, called "the Gross", uncle to Lord Mace Tyrell.
+Gascoyne                       ~ Gascoyne of the Greenblood, a knight and sworn shield to Prince Trystane Martell.
+Gavin                          ~ Gavin the Trader, a wildling leader.
+Gawen_Glover                   ~ Gawen Glover
+Gawen_Swann                    ~ Gawen Swann
+Gawen_Westerling               ~ Gawen Westerling, Lord of the Crag.
+Gawen_Wylde                    ~ Gawen Wylde, formerly master-at-arms of Storm's End during the War of the Usurper.
+Gelmarr                        ~ Gelmarr the Grim, an ironborn raider in Theon's crew.
+Gendel                         ~ Gendel, King-Beyond-the-Wall.
+Gendry                         ~ Gendry, apprentice blacksmith and bastard son of Robert Baratheon.
+Genna_Lannister                ~ Genna Lannister, wife to Ser Emmon Frey and sister to Lord Tywin Lannister.
+Gerald_Gower                   ~ Gerald Gower, a knight at the service of King Stannis Baratheon.
+Gerardys                       ~ Gerardys, former Grand Maester.
+Gergen                         ~ Gergen
+Gerion_Lannister               ~ Gerion Lannister, youngest son of Lord Tytos Lannister.
+Gerold_Dayne                   ~ Gerold Dayne, called the "Darkstar".
+Gerold_Grafton                 ~ Gerold Grafton, the Lord of Gulltown.
+Gerold_Hightower               ~ Gerold Hightower, called "The White Bull". Lord Commander of the Kingsguard.
+Gerold_Lannister               ~ Gerold Lannister
+Gerren                         ~ Gerren
+Gerrick_Kingsblood             ~ Gerrick Kingsblood, a wildling raider.
+Gerris_Drinkwater              ~ Gerris Drinkwater, a knight.
+Gevin_Harlaw                   ~ Gevin Harlaw, member of House Harlaw and of Theon's crew.
+Ghael                          ~ Ghael
+Ghost_of_High_Heart            ~ Ghost of High Heart, an old sage.
+Gilbert_Farring                ~ Gilbert Farring, a knight loyal to Stannis.
+Gillam                         ~ Gillam, a brother on the Quiet Isle.
+Gilly                          ~ Gilly, a Wildling girl.
+Gilwood_Hunter                 ~ Gilwood Hunter
+Gladden_Wylde                  ~ Gladden Wylde, a knight of Rain House.
+Glendon_Flowers                ~ Glendon Flowers
+Glendon_Hewett                 ~ Glendon Hewett
+Goady                          ~ Goady
+Godric_Borrell                 ~ Godric Borrell, Lord of Sweetsister.
+Godry_Farring                  ~ Godry Farring, called the Giantslayer.
+Godwyn                         ~ Godwyn
+Goghor_the_Giant               ~ Goghor the Giant, a pit fighter in Meereen.
+Goodwin                        ~ Goodwin
+Gorghan_of_Old_Ghis            ~ Gorghan of Old Ghis, a scholar.
+Gormon_Peake                   ~ Gormon Peake, a supporter of Daemon Blackfyre.
+Gormon_Tyrell                  ~ Gormon Tyrell
+Gormond_Drumm                  ~ Gormond Drumm
+Gormond_Goodbrother            ~ Gormond Goodbrother
+Gorne                          ~ Gorne, King-Beyond-the-Wall.
+Gorold_Goodbrother             ~ Gorold Goodbrother
+Gowen_Baratheon                ~ Gowen Baratheon
+Gran_Goodbrother               ~ Gran Goodbrother
+Grance_Morrigen                ~ Grance Morrigen, a knight who attended the Ashford Tourney.
+Grazdan                        ~ Grazdan
+Grazdan_(Great)                ~ Grazdan, founder of the ancient Ghiscari Empire.
+Grazdan_mo_Eraz                ~ Grazdan mo Eraz, an envoy and nobleman.
+Grazdan_mo_Ullhor              ~ Grazdan mo Ullhor, a rich slave trader.
+Grazdan_zo_Galare              ~ Grazdan zo Galare, a Meereenese noble.
+Grazdar_zo_Galare              ~ Grazdar zo Galare, a child hostage in Meereen.
+Great_Walrus                   ~ The Great Walrus, a wildling leader from the Frozen Shore.
+Greenbeard                     ~ Greenbeard, a member of the brotherhood without banners. His true name is Pello of Tyrosh.
+Gregor_Clegane                 ~ Gregor Clegane, the Mountain that Rides.
+Grenn                          ~ Grenn, a ranger of the Night's Watch.
+Gretchel                       ~ Gretchel
+Grey_King                      ~ Grey King, legendary first king of the Isles.
+Grey_Worm                      ~ Grey Worm, captain of Daenerys's Unsullied.
+Greydon_Goodbrother            ~ Greydon Goodbrother
+Griffin_King                   ~ Griffin King
+Grigg                          ~ Grigg, better known as Grigg the Goat, a Wildling raider.
+Grisel                         ~ Grisel
+Grisella                       ~ Grisella, a skinchanger.
+Groleo                         ~ Groleo, captain of Saduleon.
+Grubbs                         ~ Grubbs, a ranger of the Night's Watch.
+Grunt                          ~ Grunt, one of Ramsay Bolton's Bastard's Boys.
+Gueren                         ~ Gueren, a recruiter of the Night's Watch.
+Gulian                         ~ Gulian, a maester.
+Gulian_Qorgyle                 ~ Gulian Qorgyle
+Gulian_Swann                   ~ Gulian Swann, Lord of Stonehelm and father of Ser Donnel and Ser Balon Swann.
+Guncer_Sunglass                ~ Guncer Sunglass, Lord of Sweetport Sound.
+Gunthor                        ~ Gunthor, a clansmen from the Mountains of the Moon.
+Gunthor_Hightower              ~ Gunthor Hightower
+Gurn                           ~ Gurn, father of Gunthor.
+Guthor_Grimm                   ~ Guthor Grimm, Lord of Greyshield.
+Guyard_Morrigen                ~ Guyard Morrigen, a knight, the Green of the Rainbow Guard.
+Guyne                          ~ Guyne, an Archmaester of the Citadel.
+Gwayne_Corbray                 ~ Gwayne Corbray, Kingsguard of Daeron II.
+Gwayne_Gaunt                   ~ Gwayne Gaunt
+Gwayne_Hightower               ~ Gwayne Hightower, younger brother of Queen Alicent.
+Gwin_Goodbrother               ~ Gwin Goodbrother
+Gwynesse_Harlaw                ~ Gwynesse Harlaw
+Gylbert_Farwynd                ~ Gylbert Farwynd, Lord of the Lonely Light.
+Gyldayn                        ~ Gyldayn, an Archmaester at the Citadel who wrote a history of the Dance of the Dragons.
+Gyleno_Dothare                 ~ Gyleno Dothare
+Gyles                          ~ Gyles, known as "Gyles Greycloak".
+Gyles_Farwynd                  ~ Gyles Farwynd, heir of the Lonely Light.
+Gyles_III_Gardener             ~ Gyles III Gardener, King in the Reach.
+Gyles_Grafton                  ~ Gyles Grafton, the son of Lord Gerold Grafton.
+Gyles_Rosby                    ~ Gyles Rosby, Lord of Rosby.
+Gyloro_Dothare                 ~ Gyloro Dothare
+Gynir                          ~ Gynir
+Gysella_Goodbrother            ~ Gysella Goodbrother
+Haegon_Blackfyre               ~ Haegon Blackfyre
+Haggo                          ~ Haggo, Khal Drogo's bloodrider.
+Haggon                         ~ Haggon, a skinchanger.
+Hairy_Hal                      ~ Hairy Hal, a member of the Night's Watch.
+Hake                           ~ Hake, a steward of the Night's Watch.
+Hal_(Hog)                      ~ Hal, known as Hal the Hog.
+Halder                         ~ Halder, a new member of the Night's Watch.
+Haldon                         ~ Haldon, called Halfmaester.
+Hali                           ~ Hali
+Hallis_Mollen                  ~ Hallis Mollen, commander of the Guard of Winterfell after Jory Cassel.
+Hallyne                        ~ Hallyne, a pyromancer and Wisdom of the Guild of Alchemists in King's Landing.
+Halmon_Paege                   ~ Halmon Paege
+Halys_Hornwood                 ~ Halys Hornwood, Lord of Hornwood.
+Hamish_the_Harper              ~ Hamish the Harper
+Harbert                        ~ Harbert, old uncle to Lord Steffon Baratheon and castellan at Storm's End.
+Harbert_Paege                  ~ Harbert Paege
+Hareth_(Maester)               ~ Hareth, a Grand Maester.
+Hareth_(Mole%27s_Town)         ~ Hareth, a stablehand from Mole's Town.
+Harghaz                        ~ Harghaz, an animal handler in the fighting pits of Meereen, and attempted dragonslayer.
+Harlan_Grandison               ~ Harlan Grandison, knight of Aerys's Kingsguard, replaced by Ser Jaime Lannister.
+Harlan_Hunter                  ~ Harlan Hunter
+Harle_the_Handsome             ~ Harle the Handsome
+Harle_the_Huntsman             ~ Harle the Huntsman
+Harlen_Tyrell                  ~ Harlen Tyrell
+Harlon_Botley                  ~ Harlon Botley, a younger son of Lord Sawane Botley.
+Harlon_Greyjoy                 ~ Harlon Greyjoy
+Harma                          ~ Harma, called "Dogshead", a captain in Mance Rayder's army.
+Harmen_Uller                   ~ Harmen Uller, Lord of Hellholt.
+Harmond_Umber                  ~ Harmond Umber, former Lord of the Last Hearth.
+Harmund_Sharp                  ~ Harmund Sharp
+Harmune                        ~ Harmune
+Harodon                        ~ Harodon, an archmaester of the Citadel.
+Harra                          ~ Harra
+Harrag_Hoare                   ~ Harrag Hoare
+Harrag_Sharp                   ~ Harrag Sharp, also known as "Sheepstealer", a member of Prince Theon Greyjoy's crew.
+Harras_Harlaw                  ~ Harras Harlaw
+Harren_Botley                  ~ Harren Botley
+Harren_Half-Hoare              ~ Harren Half-Hoare, an ironborn raider.
+Harren_Hoare                   ~ Harren Hoare, known as "Black Harren", the builder of Harrenhal.
+Harrion_Karstark               ~ Harrion Karstark, eldest son and heir of Lord Rickard Karstark.
+Harrold_Hardyng                ~ Harrold Hardyng, called "Harry the Heir".
+Harrold_Osgrey                 ~ Harrold Osgrey, son of Eustace Osgrey, slain on the Redgrass Field.
+Harrold_Westerling             ~ Harrold Westerling, Lord Commander of the Kingsguard
+Harry_Sawyer                   ~ Harry Sawyer
+Harry_Strickland               ~ Harry Strickland, captain of the Golden Company.
+Harsley                        ~ Harsley
+Harwin                         ~ Harwin, a Winterfell guard.
+Harwin_Strong                  ~ Harwin Strong
+Harwood_Fell                   ~ Harwood Fell, Lord of Felwood.
+Harwood_Stout                  ~ Harwood Stout
+Harwyn_Hoare                   ~ Harwyn Hoare, grandfather to Harren Hoare, he conquered the riverlands by defeating the Storm King, Arrec.
+Harwyn_Plumm                   ~ Harwyn Plumm
+Harys_Haigh                    ~ Harys Haigh
+Harys_Swyft                    ~ Harys Swyft, Hand of King Tommen. "Good-father" (father-in-law) of Kevan Lannister via Kevan's marriage to Harys' daughter Dorna.
+Hayhead                        ~ Hayhead
+Hazrak_zo_Loraq                ~ Hazrak zo Loraq, called "the Handsome", a famous ancestor of the House of Loraq.
+Hazzea                         ~ Hazzea, a Ghiscari child, apparently killed by Drogon.
+Helaena_Targaryen              ~ Helaena Targaryen
+Helicent_Uffering              ~ Helicent Uffering, Roland Uffering's sister, at Coldmoat.
+Helliweg                       ~ Helliweg, a maester.
+Helly                          ~ Helly
+Helman_Tallhart                ~ Helman Tallhart, the Knight of Torrhen's Square.
+Helya                          ~ Helya
+Hendry_Bracken                 ~ Hendry Bracken, a knight, nephew and heir to Lord Jonos Bracken.
+Henk                           ~ Henk the Helm, a wildling raider.
+Henly_(Maester)                ~ Henly, a maester.
+Henly_(House_Ashford)          ~ Henly, a stableman in Ashford.
+Herbert_Bolling                ~ Herbert Bolling
+Heward                         ~ Heward
+Hibald                         ~ Hibald, a fearful and niggardly merchant.
+High_Sparrow                   ~ High Sparrow, the High Septon.
+Hilmar_Drumm                   ~ Hilmar Drumm
+Hizdahr_zo_Loraq               ~ Hizdahr zo Loraq, King of Meereen.
+Lord_Commander_Hoare           ~ Lord Commander Hoare, a leader of the Night's Watch.
+Hoarfrost_Umber                ~ Hoarfrost Umber, former Lord of the Last Hearth.
+Hobb                           ~ Hobb, "Three Fingers", cook of the Night's Watch.
+Hobber_Redwyne                 ~ Hobber Redwyne, called "Slobber". A knight. Son of Lord Paxter Redwyne, twin to Horas.
+Hod                            ~ Hod
+Hodor                          ~ Hodor, a giant, lackwit stableboy at Winterfell. His true name is Walder.
+Hoke                           ~ Hoke
+Holger                         ~ Holger, grandfather of Shagga.
+Holly                          ~ Holly, a wildling spearwife.
+Hop-Robin                      ~ Hop-Robin, a Night's Watch recruit.
+Horas_Redwyne                  ~ Horas Redwyne, called "Horror". A knight. Son of Lord Paxter Redwyne, twin to Hobber.
+Horton_Redfort                 ~ Horton Redfort
+Hosman_Norcross                ~ Hosman Norcross.
+Hosteen_Frey                   ~ Hosteen Frey, a knight of House Frey.
+Hoster_Frey                    ~ Hoster Frey
+Hoster_Tully                   ~ Hoster Tully, Lord of Riverrun.
+Hot_Pie                        ~ Hot Pie, friend to Arya Stark.
+Hother_Umber                   ~ Hother Umber, called "Whoresbane". An uncle to the Greatjon.
+Hotho_Harlaw                   ~ Hotho Harlaw
+Howd_Wanderer                  ~ Howd Wanderer, a wildling leader.
+Howland_Reed                   ~ Howland Reed, Lord of Greywater Watch and old friend to Lord Eddard Stark.
+Hubard_Rambton                 ~ Hubard Rambton, a knight of the Crownlands.
+Hugh                           ~ Hugh, Ser Hugh of the Vale.
+Hugh_Beesbury                  ~ Hugh Beesbury
+Hugh_Hammer                    ~ Hugh Hammer
+Hugo_Vance                     ~ Hugo Vance
+Hugo_Wull                      ~ Hugo Wull, the Wull.
+Hugor_of_the_Hill              ~ Hugor of the Hill, the King of the Andals.
+Hullen                         ~ Hullen, Harwin's father.
+Humfrey_Beesbury               ~ Humfrey Beesbury
+Humfrey_Clifton                ~ Humfrey Clifton
+Humfrey_Hardyng                ~ Humfrey Hardyng
+Humfrey_Hewett                 ~ Humfrey Hewett
+Humfrey_Swyft                  ~ Humfrey Swyft
+Humfrey_Wagstaff               ~ Humfrey Wagstaff
+Husband                        ~ Husband, owner of the Inn near the Ruby Ford.
+Hyle_Hunt                      ~ Hyle Hunt
+Iggo                           ~ Iggo, a Brave Companion.
+Igon_Vyrwel                    ~ Igon Vyrwel, Captain of the Guards at Highgarden.
+Illifer                        ~ Illifer, known as the Penniless.
+Illyrio_Mopatis                ~ Illyrio Mopatis, a magister of the Free City of Pentos.
+Ilyn_Payne                     ~ Ilyn Payne, a knight and King's Justice, the royal executioner.
+Imry_Florent                   ~ Imry Florent, a knight, son of ser Ryam Florent.
+Iron_Emmett                    ~ Iron Emmett, master-at-arms of the Night's Watch.
+Ironbelly                      ~ Ironbelly
+Irri                           ~ Irri, a handmaiden of Daenerys Targaryen.
+Jacelyn_Bywater                ~ Jacelyn Bywater, called "Ironhand", a knight.
+Jack-Be-Lucky                  ~ Jack-Be-Lucky
+Jacks                          ~ Jacks, a Winterfell guard.
+Jaehaera_Targaryen             ~ Jaehaera Targaryen
+Jaehaerys_I_Targaryen          ~ Jaehaerys I Targaryen, called The Old King and The Conciliator.
+Jaehaerys_Targaryen_(son_of_Aegon_II) ~ Jaehaerys Targaryen, son of King Aegon II Targaryen
+Jaehaerys_II_Targaryen         ~ Jaehaerys II Targaryen, father of Aerys II.
+Jafer_Flowers                  ~ Jafer Flowers, a ranger of Night's Watch.
+Jaggot                         ~ Jaggot
+Jaime_Frey                     ~ Jaime Frey, a newborn babe.
+Jaime_Lannister                ~ Jaime Lannister, called "the Kingslayer".
+Jalabhar_Xho                   ~ Jalabhar Xho, exiled prince of the Red Flower Vale on the Summer Islands.
+Jammos_Frey                    ~ Jammos Frey
+Janei_Lannister                ~ Janei Lannister
+Janna_Tyrell                   ~ Janna Tyrell
+Janos_Slynt                    ~ Janos Slynt, Commander of the City Watch in King's Landing.
+Jaqen_H%27ghar                 ~ Jaqen H'ghar
+Jared_Frey                     ~ Jared Frey
+Jaremy_Rykker                  ~ Jaremy Rykker, second ranger of the Night's Watch.
+Jarl                           ~ Jarl, a wildling.
+Jarmen_Buckwell                ~ Jarmen Buckwell, ranger of the Night's Watch.
+Jason_Mallister                ~ Jason Mallister, Lord of Seagard.
+Jason_Lannister                ~ Jason Lannister
+Jasper_Arryn                   ~ Jasper Arryn, Lord of the Eyrie.
+Jasper_Wylde                   ~ Jasper Wylde, called "Ironrod", master of laws during the reign of Viserys I.
+Jasper_Redfort                 ~ Jasper Redfort, the son of Lord Horton Redfort.
+Jasper_Waynwood                ~ Jasper Waynwood
+Jate                           ~ Jate
+Jate_Blackberry                ~ Jate Blackberry
+Jayde                          ~ Jayde
+Jayne_Bracken                  ~ Jayne Bracken, the daughter of Lord Jonos Bracken.
+Jeffory_Mallister              ~ Jeffory Mallister, companion of Brandon Stark, executed by King Aerys.
+Jeffory_Norcross               ~ Jeffory Norcross, called "Neveryield".
+Jenny_(Oldstones)              ~ Jenny of Oldstones.
+Jeor_Mormont                   ~ Jeor Mormont, the "Old Bear", Lord Commander of the Night's Watch.
+Jeren                          ~ Jeren, a new member of the Night's Watch.
+Squinty_Jeyne                  ~ Jeyne, known as "Squinty Jeyne".
+Jeyne_Arryn                    ~ Jeyne Arryn
+Jeyne_Beesbury                 ~ Jeyne Beesbury
+Jeyne_Darry                    ~ Jeyne Darry
+Jeyne_Fossoway                 ~ Jeyne Fossoway, of the green-apple Fossoways.
+Jeyne_Goodbrook                ~ Jeyne Goodbrook
+Jeyne_Heddle                   ~ Jeyne Heddle, the niece of Masha Heddle.
+Jeyne_Lothston                 ~ Jeyne Lothston
+Jeyne_Lydden                   ~ Jeyne Lydden
+Jeyne_Poole                    ~ Jeyne Poole, Vayon Poole's daughter and a friend to Sansa Stark.
+Jeyne_Rivers                   ~ Jeyne Rivers
+Jeyne_Swann                    ~ Jeyne Swann
+Jeyne_Waters                   ~ Jeyne Waters
+Jeyne_Westerling_(wife_of_Maegor_I) ~ Jeyne Westerling, wife of Maegor I.
+Jeyne_Westerling               ~ Jeyne Westerling, wife of Robb Stark.
+Jhaqo                          ~ Jhaqo, a Dothraki khal.
+Jhezane                        ~ Jhezane, a child hostage in Meereen.
+Jhiqui                         ~ Jhiqui, a handmaiden of Daenerys Targaryen.
+Jhogo                          ~ Jhogo, Daenerys' bloodrider.
+Joanna_Lannister               ~ Joanna Lannister, late wife of Tywin Lannister.
+Joanna_Swyft                   ~ Joanna Swyft
+Jocelyn_Swyft                  ~ Jocelyn Swyft
+Jodge                          ~ Jodge
+Joffrey_Baratheon              ~ Joffrey Baratheon, eldest son of King Robert I and heir to the Iron Throne.
+Joffrey_Caswell                ~ Joffrey Caswell, Lord of Bitterbridge during the reign of Aerys I.
+Joffrey_Lonmouth               ~ Joffrey Lonmouth
+Johanna_Swann                  ~ Johanna Swann
+Jojen_Reed                     ~ Jojen Reed, son of Howland Reed, Lord of Greywater Watch.
+Jommo                          ~ Jommo
+Jommy                          ~ Jommy, in service to House Baratheon.
+Jon                            ~ Jon, known as Jon O'Nutten.
+Jon_Arryn                      ~ Jon Arryn, Hand of the King.
+Jon_Bettley                    ~ Jon Bettley
+Jon_Brax                       ~ Jon Brax
+Jon_Bulwer                     ~ Jon Bulwer
+Jon_Connington                 ~ Jon Connington, Hand of the King under Aerys II.
+Jon_Cupps                      ~ Jon Cupps
+Jon_Fossoway                   ~ Jon Fossoway, a knight of the Green Apple Fossoways.
+Jon_Heddle                     ~ Jon Heddle, known as Long Jon Heddle.
+Jon_Hollard                    ~ Jon Hollard
+Jon_Lynderly                   ~ Jon Lynderly, the Lord of the Snakewood.
+Jon_Myre                       ~ Jon Myre
+Jon_Penny                      ~ Jon Penny, a child at the Crossroads Inn.
+Jon_Penrose                    ~ Jon Penrose
+Jon_Pox                        ~ Jon Pox
+Jon_Redfort                    ~ Jon Redfort, the son of Lord Horton Redfort.
+Jon_Snow                       ~ Jon Snow, bastard son of Lord Eddard Stark.
+Jon_Umber_(Greatjon)           ~ Jon Umber, called the Greatjon. Lord of the Last Hearth.
+Jon_Umber_(Smalljon)           ~ Jon Umber, called the Smalljon. Heir to the Last Hearth.
+Jon_Vance                      ~ Jon Vance, a Maester.
+Jon_Waters                     ~ Jon Waters
+Jon_Wylde                      ~ Jon Wylde
+Jonella_Cerwyn                 ~ Jonella Cerwyn, daughter of Lord Medger Cerwyn.
+Jonnel_Stark                   ~ Jonnel Stark
+Jonos_Bracken                  ~ Jonos Bracken, Lord of Stone Hedge.
+Jonos_Frey                     ~ Jonos Frey
+Jonos_Stark                    ~ Jonos Stark
+Jonothor_Darry                 ~ Jonothor Darry, knight of Aerys's Kingsguard, brother to Ser Willem Darry.
+Jorah_Mormont                  ~ Jorah Mormont, son of Jeor Mormont, knight in exile, once Lord of Bear Island.
+Jorah_Stark                    ~ Jorah Stark
+Joramun                        ~ Joramun
+Jorelle_Mormont                ~ Jorelle Mormont, the daughter of Lady Maege Mormont.
+Jorgen                         ~ Jorgen, a peasant of Coldmoat.
+Jorquen                        ~ Jorquen
+Jory_Cassel                    ~ Jory Cassel, Captain of the Guard at Winterfell, nephew of Ser Rodrik Cassel.
+Joseran                        ~ Joseran
+Joseth                         ~ Joseth
+Joseth_Mallister               ~ Joseth Mallister
+Josmyn_Peckledon               ~ Josmyn Peckledon, a squire.
+Joss                           ~ Joss
+Joss_Stilwood                  ~ Joss Stilwood, squire to Ser Gregor Clegane.
+Joss_the_Gloom                 ~ Joss the Gloom, a mummer.
+Josua_Willum                   ~ Josua Willum, Lord Willum's eldest son.
+Joth_Quickbow                  ~ Joth Quickbow
+Jothos_Slynt                   ~ Jothos Slynt
+Joy_Hill                       ~ Joy Hill, bastard daughter of Gerion Lannister.
+Joyeuse_Erenford               ~ Joyeuse Erenford, the eighth wife of Lord Walder Frey.
+Jurne                          ~ Jurne
+Justin_Massey                  ~ Justin Massey, a knight.
+Jyana                          ~ Jyana, the wife of Howland Reed.
+Jyanna_Frey                    ~ Jyanna Frey
+Jyck                           ~ Jyck
+Jynessa_Blackmont              ~ Jynessa Blackmont
+Jyzene                         ~ Jyzene
+Kaeth                          ~ Kaeth, author of Lives of Four Kings.
+Karlon_Stark                   ~ Karlon Stark, founder of House Karstark.
+Karyl_Vance                    ~ Karyl Vance, Lord of Wayfarer's Rest.
+Kedge_Whiteye                  ~ Kedge Whiteye, a ranger of the Night's Watch.
+Kedry                          ~ Kedry, a maester.
+Kegs                           ~ Kegs
+Kella                          ~ Kella
+Kemmett_Pyke                   ~ Kemmett Pyke
+Kenned                         ~ Kenned
+Kennos_of_Kayce                ~ Kennos of Kayce, a knight entrusted with the Horn of Herrock.
+Ketter                         ~ Ketter
+Kevan_Lannister                ~ Kevan Lannister, brother of Lord Tywin.
+Kezmya                         ~ Kezmya, a child hostage in Meereen, of the Pahl family.
+Khorane_Sathmantes             ~ Khorane Sathmantes
+Khrazz                         ~ Khrazz, a pit fighter in Meereen, later made bodyguard to Hizdahr zo Loraq.
+Kindly_Man                     ~ the Kindly Man, a Faceless Man of Braavos.
+Kirby_Pimm                     ~ Kirby Pimm
+Kirth_Vance                    ~ Kirth Vance
+House_Templeton                ~ Knight of Ninestars, slain by Daemon Blackfyre on the Redgrass Field.
+Kojja_Mo                       ~ Kojja Mo, a member of the crew of the Cinnamon Wind.
+Koss                           ~ Koss
+Kraznys_mo_Nakloz              ~ Kraznys mo Nakloz
+Krazz                          ~ Krazz, a pit fighter.
+Kromm                          ~ Kromm
+Kurleket                       ~ Kurleket, a Bracken man-at-arms who accompanies Catelyn and Tyrion through the Mountains of the Moon.
+Kurz                           ~ Kurz
+Kyle                           ~ Kyle
+Kyle_(Banners)                 ~ Kyle, a member of the brotherhood without banners.
+Kyle_Condon                    ~ Kyle Condon
+Kyle_Royce                     ~ Kyle Royce
+Kyleg                          ~ Kyleg of the Wooden Ear, a wildling leader.
+Kym                            ~ Kym
+Kyra                           ~ Kyra, a young woman of Winterfell.
+Kyra_Frey                      ~ Kyra Frey
+Lady_of_the_Leaves             ~ Lady of the Leaves
+Laena_Velaryon                 ~ Laena Velaryon
+Laenor_Velaryon                ~ Laenor Velaryon
+Lambert_Turnberry              ~ Lambert Turnberry
+Lamprey                        ~ Lamprey, gaoler at Dragonstone.
+Lancel_V_Lannister             ~ Lancel V Lannister, a King of the Rock, killed by Wilbert Osgrey.
+Lancel_Lannister               ~ Lancel Lannister, son of Kevan Lannister. A squire to King Robert Baratheon.
+Lann_the_Clever                ~ Lann the Clever, a legendary trickster.
+Lanna                          ~ Lanna
+Lanna_(Happy_Port)             ~ Lanna, a young prostitute working at the Happy Port in Braavos.
+Lanna_Lannister                ~ Lanna Lannister
+Larence_Snow                   ~ Larence Snow, called "the Bastard of Hornwood".
+Lark                           ~ Lark the Sisterman
+Larra_Blackmont                ~ Larra Blackmont
+Larraq                         ~ Larraq, called "the Lash", a former slave now in training as a squire to Ser Barristan Selmy.
+Larys_Strong                   ~ Larys Strong, also called "Larys Clubfoot", Lord of Harrenhal and master of whisperers during the reign of Viserys I.
+Layna                          ~ Layna
+Leana_Frey                     ~ Leana Frey, an infant.
+Leathers                       ~ Leathers, a wildling who joins the Night's Watch.
+Left_Hand_Lew                  ~ Left Hand Lew, a member of the Night's Watch.
+Lem                            ~ Lem, called "Lemoncloak". A member of the brotherhood without banners.
+Lem_(Standfast)                ~ Lem, one of Standfast's peasants.
+Lenn                           ~ Lenn
+Lennocks                       ~ Lennocks
+Lenwood_Tawney                 ~ Lenwood Tawney
+Lenyl                          ~ Lenyl
+Leo_Blackbar                   ~ Leo Blackbar
+Leo_Lefford                    ~ Leo Lefford, Lord of the Golden Tooth.
+Leo_Tyrell                     ~ Leo Tyrell, called Lazy Leo, a novice of the Citadel.
+Leo_Tyrell_(Longthorn)         ~ Leo Tyrell, Lord of Highgarden. Called Leo Longthorn.
+Leo_Tyrell_(son_of_Victor)     ~ Leo Tyrell, the son of Victor Tyrell.
+Leobald_Tallhart               ~ Leobald Tallhart, castellan of Torrhen's Square.
+Leona_Tyrell                   ~ Leona Tyrell
+Leona_Woolfield                ~ Leona Woolfield, wife of Ser Wylis Manderly.
+Leonella_Lefford               ~ Leonella Lefford
+Leonette_Fossoway              ~ Leonette Fossoway, wife of Ser Garlan Tyrell.
+Leslyn_Haigh                   ~ Leslyn Haigh
+Lester                         ~ Lester, a Lannister guardsman.
+Lester_Morrigen                ~ Lester Morrigen, Lord of Crows Nest.
+Lew                            ~ Lew, a guard at Winterfell.
+Lew_(Long)                     ~ Lew, known as Long Lew.
+Lewis_Lanster                  ~ Lewis Lanster, a sellsword archer with the Windblown.
+Lewyn_Martell                  ~ Lewyn Martell, member of the Kingsguard.
+Lewys                          ~ Lewys
+Lewys_Lydden                   ~ Lewys Lydden
+Lewys_Piper                    ~ Lewys Piper, a squire.
+Leyla_Hightower                ~ Leyla Hightower
+Leyton_Hightower               ~ Leyton Hightower, Voice of Oldtown, Lord of the Port, Lord of the Hightower, Defender of the Citadel and Beacon of the South.
+Lharys                         ~ Lharys
+Lia_Serry                      ~ Lia Serry
+Liane_Vance                    ~ Liane Vance
+Likely_Luke                    ~ Likely Luke, a member of the brotherhood without banners.
+Lister                         ~ Lister
+Lollys_Stokeworth              ~ Lollys Stokeworth, dim-witted younger daughter of Tanda Stokeworth.
+Lomas_Estermont                ~ Lomas Estermont
+Lommy_Greenhands               ~ Lommy Greenhands, a boy on his way to join the Night's Watch.
+Lomys                          ~ Lomys, a maester.
+Loras_Tyrell                   ~ Loras Tyrell, Knight of Flowers.
+Lorcas                         ~ Lorcas, an acolyte.
+Loren_Lannister                ~ Loren Lannister, last King of the Rock, knelt to Aegon I the Dragon.
+Lorent_Lorch                   ~ Lorent Lorch
+Lorent_Marbrand                ~ Lorent Marbrand, a member of the Kingsguard during the reign of Viserys I.
+Lorent_Tyrell                  ~ Lorent Tyrell
+Loreza_Sand                    ~ Loreza Sand, eighth of the Sand Snakes. Illegitimate daughter of Oberyn Martell and Ellaria Sand.
+Lorimer                        ~ Lorimer
+Lormelle                       ~ Lormelle
+Lorren                         ~ Lorren, called "Black Lorren". An infamous ironborn raider.
+Lothar                         ~ Lothar
+Lothar_Frey                    ~ Lothar Frey, called "Lame Lothar".
+Lothar_Mallery                 ~ Lothar Mallery
+Lotho_Lornel                   ~ Lotho Lornel, a book dealer in Braavos.
+Lothor_Brune                   ~ Lothor Brune, a freerider.
+Lucamore_Strong                ~ Lucamore Strong
+Lucan                          ~ Lucan
+Lucantine_Woodwright           ~ Lucantine Woodwright, a household knight.
+Lucas_Blackwood                ~ Lucas Blackwood, heir to Raventree Hall.
+Lucas_Codd                     ~ Lucas Codd
+Lucas_Corbray                  ~ Lucas Corbray
+Lucas_Inchfield                ~ Lucas Inchfield, called "The Longinch."
+Lucas_Lothston                 ~ Lucas Lothston
+Lucas_Nayland                  ~ Lucas Nayland
+Lucas_Roote                    ~ Lucas Roote
+Lucas_Tyrell                   ~ Lucas Tyrell
+Luceon_Frey                    ~ Luceon Frey, a septon, one of the Most Devout.
+Lucias_Vypren                  ~ Lucias Vypren
+Lucifer_Hardy                  ~ Lucifer Hardy
+Lucimore_Botley                ~ Lucimore Botley
+Lucion_Lannister               ~ Lucion Lannister
+Luco_Prestayn                  ~ Luco Prestayn
+Lucos                          ~ Lucos, a septon.
+Lucos_Chyttering               ~ Lucos Chyttering
+Luke_of_Longtown               ~ Luke of Longtown, a member of the Night's Watch.
+Lum                            ~ Lum
+Luthor_Tyrell                  ~ Luthor Tyrell, the previous Lord of Highgarden.
+Luthor_Tyrell_(son_of_Moryn)   ~ Luthor Tyrell, the son of Ser Moryn Tyrell.
+Luthor_Tyrell_(son_of_Theodore) ~ Luthor Tyrell, the son of Ser Theodore Tyrell.
+Luton                          ~ Luton, a man-at-arms sworn to House Bolton.
+Luwin                          ~ Luwin, maester at Winterfell.
+Lyanna_Mormont                 ~ Lyanna Mormont, the youngest of Maege Mormont's daughters. Named after Lyanna Stark.
+Lyanna_Stark                   ~ Lyanna Stark, late sister of Eddard Stark.
+Lyessa_Flint                   ~ Lyessa Flint, Lady of Widow's Watch.
+Lyle_Crakehall                 ~ Lyle Crakehall, called the "Strongboar". Famed knight and battle commander.
+Lyman_Beesbury                 ~ Lyman Beesbury, master of coin during the reigns of Jaeharys I and Viserys I.
+Lyman_Darry                    ~ Lyman Darry
+Lymond_Goodbrook               ~ Lymond Goodbrook
+Lymond_Lychester               ~ Lymond Lychester
+Lymond_Mallister               ~ Lymond Mallister
+Lymond_Vikary                  ~ Lymond Vikary
+Lyn_Corbray                    ~ Lyn Corbray, master swordsman and suitor to Lysa Tully.
+Lync                           ~ Lync
+Lynesse_Hightower              ~ Lynesse Hightower, estranged second wife of Ser Jorah.
+Lyonel_(knight)                ~ Lyonel, a knight.
+Lyonel_Baratheon               ~ Lyonel Baratheon, called The Laughing Storm.
+Lyonel_Bentley                 ~ Lyonel Bentley
+Lyonel_Corbray                 ~ Lyonel Corbray
+Lyonel_Frey                    ~ Lyonel Frey
+Lyonel_Selmy                   ~ Lyonel Selmy
+Lyonel_Strong                  ~ Lyonel Strong
+Lyonel_Tyrell_(lord)           ~ Lyonel Tyrell, Lord of Highgarden.
+Lyonel_Tyrell_(son_of_Leo)     ~ Lyonel Tyrell, son of Leo Tyrell.
+Lyra_Mormont                   ~ Lyra Mormont, the daughter of Lady Maege Mormont.
+Lysa_Meadows                   ~ Lysa Meadows
+Lysa_Tully                     ~ Lysa Tully, widow of Jon Arryn.
+Lysono_Maar                    ~ Lysono Maar, a sellsword and spymaster of the Golden Company.
+Lythene_Frey                   ~ Lythene Frey
+Mace_Tyrell                    ~ Mace Tyrell
+Mad_Huntsman                   ~ Mad Huntsman, a brutal member of the brotherhood without banners.
+Maddy                          ~ Maddy
+Maege_Mormont                  ~ Maege Mormont, Lady of Bear Island.
+Maegelle_Frey                  ~ Maegelle Frey
+Maegor_I_Targaryen             ~ Maegor I Targaryen, called the Cruel.
+Maekar_Targaryen               ~ Maekar Targaryen
+Maelor_Targaryen               ~ Maelor Targaryen
+Maelys_Blackfyre               ~ Maelys Blackfyre, known as Maelys the Monstrous.
+Maerie_(Goodwife)              ~ Maerie, kwown as Goodwife Maerie.
+Maerie_(Whore)                 ~ Maerie, known as Maerie the Whore.
+Mag_Mar_Tun_Doh_Weg            ~ Mag Mar Tun Doh Weg, called "Mag the Mighty", King of the Giants.
+Maggy                          ~ Maggy the Frog, a seer.
+Mago                           ~ Mago
+Malcolm                        ~ Malcolm
+Mallador_Locke                 ~ Mallador Locke
+Malleon                        ~ Malleon
+Malliard                       ~ Malliard
+Mallor_(Knight)                ~ Mallor, a knight.
+Mallor                         ~ Mallor, called Mallor the Dornishman.
+Malwyn_Frey                    ~ Malwyn Frey
+Mance_Rayder                   ~ Mance Rayder, The King beyond the Wall.
+Mandon_Moore                   ~ Mandon Moore, a knight of King Robert's Kingsguard.
+Manfred_Dondarrion             ~ Manfred Dondarrion, Lord of House Dondarrion.
+Manfred_Lothston               ~ Manfred Lothston
+Manfred_Swann                  ~ Manfred Swann
+Manfrey_Martell                ~ Manfrey Martell
+Manfryd_Lothston               ~ Manfryd Lothston, o' the Black Hood.
+Manfryd_Yew                    ~ Manfryd Yew
+Marei                          ~ Marei
+Margaery_Tyrell                ~ Margaery Tyrell, daughter of Lord Mace Tyrell.
+Marghaz_zo_Loraq               ~ Marghaz zo Loraq, a cousin of Hizdahr zo Loraq, later made commander of the Brazen Beasts.
+Margot_Lannister               ~ Margot Lannister
+Marianne_Vance                 ~ Marianne Vance
+Maric_Seaworth                 ~ Maric Seaworth
+Marillion                      ~ Marillion, a singer
+Maris                          ~ Maris
+Marissa_Frey                   ~ Marissa Frey
+Mariya_Darry                   ~ Mariya Darry
+Mark_Mullendore                ~ Mark Mullendore
+Mark_Ryswell                   ~ Mark Ryswell
+Marlon_Manderly                ~ Marlon Manderly
+Maron_Botley                   ~ Maron Botley
+Maron_Greyjoy                  ~ Maron Greyjoy, killed during the Greyjoy Rebellion.
+Maron_Martell                  ~ Maron Martell
+Maron_Volmark                  ~ Maron Volmark
+Marq_Grafton                   ~ Marq Grafton, Targaryen loyalist in Gulltown.
+Marq_Piper                     ~ Marq Piper, heir to Pinkmaiden.
+Marq_Rankenfell                ~ Marq Rankenfell
+Marsella_Waynwood              ~ Marsella Waynwood
+Matarys_Targaryen              ~ Matarys Targaryen
+Martyn_Cassel                  ~ Martyn Cassel
+Martyn_Lannister               ~ Martyn Lannister
+Martyn_Mullendore              ~ Martyn Mullendore, Lord of Uplands.
+Martyn_Rivers                  ~ Martyn Rivers
+Marwyn                         ~ Marwyn, an archmaester of the Citadel.
+Marwyn_Belmore                 ~ Marwyn Belmore
+Marya_Seaworth                 ~ Marya Seaworth, a cobbler's daughter before her marriage to Lord Davos.
+Masha_Heddle                   ~ Masha Heddle
+Maslyn                         ~ Maslyn
+Matarys_Targaryen              ~ Matarys Targaryen
+Mathis_Frey                    ~ Mathis Frey
+Mathis_Rowan                   ~ Mathis Rowan, Lord of Goldengrove.
+Mathos_Mallarawan              ~ Mathos Mallarawan
+Matrice                        ~ Matrice
+Matt                           ~ Matt
+Matthar                        ~ Matthar
+Matthos_Seaworth               ~ Matthos Seaworth, son of Davos Seaworth.
+Mawney                         ~ Mawney
+Maynard                        ~ Maynard, a knight held at the bridge.
+Maynard_Plumm                  ~ Maynard Plumm
+Mazdhan_zo_Loraq               ~ Mazdhan zo Loraq, called "the Magnificent", a famous ancestor of the House of Loraq.
+Mebble                         ~ Mebble
+Medgar_Tully                   ~ Medgar Tully
+Medger_Cerwyn                  ~ Medger Cerwyn
+Medwick_Tyrell                 ~ Medwick Tyrell, a Maester.
+Meera_Reed                     ~ Meera Reed, daughter of Howland Reed.
+Meg                            ~ Meg, called Swampy Meg.
+Megga_Tyrell                   ~ Megga Tyrell
+Meha                           ~ Meha
+Meizo_Mahr                     ~ Meizo Mahr
+Mela                           ~ Mela
+Melaquin                       ~ Melaquin
+Melara_Crane                   ~ Melara Crane, wife of Lord Alester Florent, Lady of Brightwater Keep.
+Melara_Hetherspoon             ~ Melara Hetherspoon, childhood friend of Cersei Lannister.
+Meldred_Merlyn                 ~ Meldred Merlyn, Lord of Pebbleton.
+Melesa_Crakehall               ~ Melesa Crakehall
+Melessa_Florent                ~ Melessa Florent
+Meliana                        ~ Meliana
+Melicent                       ~ Melicent, a septa.
+Melisandre                     ~ Melisandre of Asshai, called "The Red Woman".
+Melissa_Blackwood              ~ Melissa Blackwood, mistress of King Aegon IV Targaryen and mother of Bloodraven.
+Mellara_Rivers                 ~ Mellara Rivers
+Mellei                         ~ Mellei, a servant.
+Mellos                         ~ Mellos
+Melly                          ~ Melly
+Melwyn_Sarsfield               ~ Melwyn Sarsfield
+Melwys_Rivers                  ~ Melwys Rivers
+Meralyn                        ~ Meralyn, owner of the Happy Port.
+Meredyth_Crane                 ~ Meredyth Crane
+Merianne_Frey                  ~ Merianne Frey
+Meribald                       ~ Meribald, a wandering septon.
+Merling_Queen                  ~ Merling Queen, a courtesan.
+Merlon_Crakehall               ~ Merlon Crakehall
+Mern_Gardener                  ~ Mern Gardener
+Mero                           ~ Mero, the Titan's Bastard, leader of the Second Sons.
+Merrell_Florent                ~ Merrell Florent
+Merrett_Frey                   ~ Merrett Frey, called Muttonhead.
+Merrit                         ~ Merrit
+Merry_Meg                      ~ Merry Meg
+Meryn_Trant                    ~ Meryn Trant, a knight of Robert's Kingsguard.
+Mezzara                        ~ Mezzara, a child hostage in Meereen, of the Merreq family.
+Michael_Mertyns                ~ Michael Mertyns, known as the "White Owl".
+Mikken                         ~ Mikken, blacksmith of Winterfell.
+Miklaz                         ~ Miklaz, a child hostage in Meereen.
+Mina_Tyrell                    ~ Mina Tyrell
+Minisa_Whent                   ~ Minisa Whent, late wife of Lord Hoster Tully, mother to Catelyn, Lysa, and Edmure.
+Mirri_Maz_Duur                 ~ Mirri Maz Duur, a maegi, or witch-woman.
+Missandei                      ~ Missandei, a slave girl.
+Moelle                         ~ Moelle, a septa.
+Mohor                          ~ Mohor
+Mollander                      ~ Mollander
+Mollos                         ~ Mollos
+Monford_Velaryon               ~ Monford Velaryon
+Monster                        ~ Monster, the nickname of Gilly's unnamed infant son.
+Monterys_Velaryon              ~ Monterys Velaryon
+Moon_Boy                       ~ Moon Boy, a fool at King's Landing.
+Moonshadow                     ~ Moonshadow, a courtesan.
+Moqorro                        ~ Moqorro, a red priest.
+Mord                           ~ Mord, a gaoler in the Eyrie.
+Mordane                        ~ Mordane, a septa at Winterfell.
+Moredo_Prestayn                ~ Moredo Prestayn, captain of the Vixen.
+Moreo_Tumitis                  ~ Moreo Tumitis
+Morgarth                       ~ Morgarth, a hedge knight.
+Morgil                         ~ Morgil, called "the Evil"
+Moribald_Chester               ~ Moribald Chester, Lord of Greenshield.
+Morna_White_Mask               ~ Morna White Mask, a wildling warrior witch and raider.
+Moro                           ~ Moro, a Dothraki khal that appears in A Game of Thrones.
+Kingdom_of_Sarnor              ~ Moro, a Dothraki khal that aided in the destruction of the Sarnori.
+Morosh_the_Myrman              ~ Morosh the Myrman, a sellsail admiral.
+Morra                          ~ Morra, a servant.
+Morrec                         ~ Morrec
+Morros_Slynt                   ~ Morros Slynt
+Mors_Manwoody                  ~ Mors Manwoody
+Mors_Martell                   ~ Mors Martell
+Mors_Martell_(brother_of_Doran) ~ Mors Martell, a younger brother of Doran Martell, died in infancy.
+Mors_Umber                     ~ Mors Umber, called Crowsfood, the Greatjon's uncle.
+Mortimer_Boggs                 ~ Mortimer Boggs
+Morton_Waynwood                ~ Morton Waynwood
+Morya_Frey                     ~ Morya Frey
+Moryn_Tyrell                   ~ Moryn Tyrell
+Mother_Mole                    ~ Mother Mole, a wildling woods witch.
+Mudge                          ~ Mudge
+Mudge_(miller)                 ~ Mudge, miller's son.
+Mullin                         ~ Mullin
+Mully                          ~ Mully
+Munciter                       ~ Munciter
+Munda                          ~ Munda
+Murch                          ~ Murch, a Night's Watch recruit.
+Murch_(Winterfell)             ~ Murch, a skilled huntsman in service to House Stark.
+Murenmure                      ~ Murenmure
+Murmison                       ~ Murmison
+Mushroom                       ~ Mushroom, a dwarf, court fool of King Viserys I Targaryen
+Muttering_Bill                 ~ Muttering Bill, a member of the Night's Watch.
+Mya_Stone                      ~ Mya Stone, bastard daughter of King Robert.
+Mycah                          ~ Mycah, a butcher's boy at Winterfell
+Mychel_Redfort                 ~ Mychel Redfort
+Mylenda_Caron                  ~ Mylenda Caron
+Myles                          ~ Myles
+Myles_(squire)                 ~ Myles, the squire of Ser Desmond Grell.
+Myles_Manwoody                 ~ Myles Manwoody
+Myles_Mooton                   ~ Myles Mooton, squire to Prince Rhaegar Targaryen.
+Myles_Smallwood                ~ Myles Smallwood
+Myranda_Royce                  ~ Myranda Royce, the widowed young daughter of Lord Nestor Royce.
+Myrcella_Baratheon             ~ Myrcella Baratheon, daughter of Robert Baratheon and Cersei Lannister.
+Myria_Jordayne                 ~ Myria Jordayne, heir to the Tor.
+Myriah_Martell                 ~ Myriah Martell
+Myrielle_Lannister             ~ Myrielle Lannister, a daughter of Ser Stafford Lannister.
+Myrtle                         ~ Myrtle, a wildling spearwife.
+Mysaria                        ~ Mysaria, a Lynesi dancing girl from a whorehouse in King's Landing
+Naerys_Targaryen               ~ Naerys Targaryen
+Nage                           ~ Nage
+Nail                           ~ Nail, an apprentice blacksmith and armorer.
+Nan                            ~ Nan, called "Old Nan". Longtime servant at Winterfell.
+Narbert                        ~ Narbert, a brother on the Quiet Isle.
+Narbo                          ~ Narbo, a cutpurse.
+Ned_(ferryman)                 ~ Ned, a ferryman.
+Ned_Woods                      ~ Ned Woods, called "Noseless Ned".
+Nella                          ~ Nella
+Nestor_Royce                   ~ Nestor Royce, High Steward of the Vale.
+Nettles                        ~ Nettles, a dragonseed and rider of Sheepstealer during the Dance of the Dragons.
+Nightingale                    ~ Nightingale, a courtesan.
+Nissa_Nissa                    ~ Nissa Nissa, wife of Azor Ahai in legend.
+Noho_Dimittis                  ~ Noho Dimittis
+Nolla                          ~ Nolla
+Norbert_Vance                  ~ Norbert Vance
+Norjen                         ~ Norjen
+Normund_Tyrell                 ~ Normund Tyrell
+Norne_Goodbrother              ~ Norne Goodbrother
+Norren                         ~ Norren, an archmaester.
+Notch                          ~ Notch
+Nute                           ~ Nute the Barber
+Nymella_Toland                 ~ Nymella Toland
+Nymeria                        ~ Nymeria, legendary warrior woman.
+Nymeria_Sand                   ~ Nymeria Sand, second of the Sand Snakes, illegitimate daughter of Oberyn Martell.
+Nymos                          ~ Nymos, an archmaester of the Citadel.
+Nysterica                      ~ Nysterica
+Obara_Sand                     ~ Obara Sand, eldest of the Sand Snakes, illegitimate daughter of Oberyn Martell
+Obella_Sand                    ~ Obella Sand, sixth of the Sand Snakes, daughter of Oberyn Martell and Ellaria Sand.
+Oberyn_Martell                 ~ Oberyn Martell, the Red Viper.
+Ocley                          ~ Ocley, an archmaester of the Citadel.
+Ogo                            ~ Ogo
+Old_Crackbones                 ~ Old Crackbones
+Old_Grey_Gull                  ~ Old Grey Gull
+Old_Henly                      ~ Old Henly, a member of the Night's Watch.
+Old_Tattersalt                 ~ Old Tattersalt, a member of the Night's Watch.
+Olene_Tyrell                   ~ Olene Tyrell
+Olenna_Redwyne                 ~ Olenna Redwyne, known as the "Queen of Thorns", mother of Lord Mace Tyrell.
+Ollidor                        ~ Ollidor, a septon.
+Ollo_Lophand                   ~ Ollo Lophand
+Olymer_Tyrell                  ~ Olymer Tyrell
+Olyvar_Frey                    ~ Olyvar Frey, squire of King Robb Stark.
+Olyvar_Oakheart                ~ Olyvar Oakheart.
+Omer_Blackberry                ~ Omer Blackberry, one of Stannis Baratheon's sworn swords.
+Omer_Florent                   ~ Omer Florent, a Maester of The Citadel, in service at Old Oak. Son of Ser Colin Florent.
+Ondrew_Locke                   ~ Ondrew Locke
+Orbelo                         ~ Orbelo, a bravo.
+Orbert_Caswell                 ~ Orbert Caswell, a former Lord Commander of the Night's Watch.
+Ordello                        ~ Ordello, magister of Pentos.
+Orell                          ~ Orell, called "the Eagle", a wildling skinchanger.
+Orivel                         ~ Orivel, called "Orivel the Open-Handed".
+Orland_of_Oldtown              ~ Orland of Oldtown, a singer.
+Ormond_(knight)                ~ Ormond, a knight.
+Ormond_Osgrey                  ~ Ormond Osgrey
+Ormond_Westerling              ~ Ormond Westerling
+Ormond_Yronwood                ~ Ormond Yronwood
+Ormund_Wylde                   ~ Ormund Wylde
+Oro_Tendyris                   ~ Oro Tendyris
+Orwyle                         ~ Orwyle, Grand Maester during the reign of Viserys I.
+Orphan_Oss                     ~ Orphan Oss
+Orton_Merryweather             ~ Orton Merryweather, a Tyrell bannerman and husband of Taena Merryweather.
+Orys_Baratheon                 ~ Orys Baratheon, founder of House Baratheon, bastard half-brother of Aegon the Conquerer.
+Osbert_Serry                   ~ Osbert Serry, Lord of Southshield.
+Osfryd_Kettleblack             ~ Osfryd Kettleblack, a sellsword and brother to Osmund and Osney.
+Osha                           ~ Osha, wildling warrior captured by Robb Stark.
+Osmund_Frey                    ~ Osmund Frey
+Osmund_Kettleblack             ~ Osmund Kettleblack, a sellsword knight and brother to Osfryd and Osney.
+Osmynd                         ~ Osmynd
+Osney_Kettleblack              ~ Osney Kettleblack, a sellsword and brother to Osfryd and Osmund.
+Ossifer_Plumm                  ~ Ossifer Plumm
+Ossy                           ~ Ossy, a mule-handller.
+Oswell_Kettleblack             ~ Oswell Kettleblack, a sellsword and father of Ser Osmund, Osfryd, and Osney.
+Oswell_Whent                   ~ Oswell Whent
+Oswyn                          ~ Oswyn
+Othell_Yarwyck                 ~ Othell Yarwyck
+Otho_Bracken                   ~ Otho Bracken, called "the Brute of Bracken".
+Othor                          ~ Othor
+Otter_Gimpknee                 ~ Otter Gimpknee
+Otto_Hightower                 ~ Otto Hightower
+Ottomore                       ~ Ottomore, a maester.
+Ottyn_Wythers                  ~ Ottyn Wythers
+Owen                           ~ Owen, better known as Owen the Oaf.
+Owen_(brother_of_Meribald)     ~ Owen, the brother of Septon Meribald.
+Owen_Inchfield                 ~ Owen Inchfield
+Owen_Norrey                    ~ Owen Norrey
+Oznak_zo_Pahl                  ~ Oznak zo Pahl
+Palla                          ~ Palla
+Parmen_Crane                   ~ Parmen Crane, the Purple knight of the Rainbow Guard.
+Patchface                      ~ Patchface, lackwit fool at Dragonstone.
+Pate                           ~ Pate, a novice at the Citadel.
+Pate_(King%27s_Landing)        ~ Pate, Prince Tommen's whipping boy.
+Pate_(Lancewood)               ~ Pate, better known as Pate of Lancewood.
+Pate_(Mory)                    ~ Pate, better known as Pate of Mory.
+Pate_of_the_Blue_Fork          ~ Pate of the Blue Fork
+Pate_(Old)                     ~ Pate, called Old Pate.
+Pate_(Pinchbottom)             ~ Pate, called Pinchbottom Pate.
+Pate_(Night%27s_Watch)         ~ Pate of the Night's Watch
+Pate_(Shermer%27s_Grove)       ~ Pate, better known as Pate of Shermer's Grove.
+Pate_(Standfast)               ~ Pate, one of Standfast's smallfolk.
+Patrek_Mallister               ~ Patrek Mallister, heir to Seagard.
+Patrek_Vance                   ~ Patrek Vance
+Paxter_Redwyne                 ~ Paxter Redwyne, Lord of the Arbor.
+Pearse_Caron                   ~ Pearse Caron
+Penny                          ~ Penny, a dwarf.
+Penny_Jenny                    ~ Penny Jenny, a whore.
+Perra_Frey                     ~ Perra Frey
+Perriane_Frey                  ~ Perriane Frey
+Perros_Blackmont               ~ Perros Blackmont
+Perwyn_Frey                    ~ Perwyn Frey, a knight.
+Perwyn_Osgrey                  ~ Perwyn Osgrey, called "the Proud". Founder of House Osgrey.
+Peter_Plumm                    ~ Peter Plumm
+Petyr_Baelish                  ~ Petyr Baelish, called Littlefinger, master of coin.
+Petyr_Frey                     ~ Petyr Frey, called "Petyr Pimple".
+Philip_Foote                   ~ Philip Foote, a knight.
+Philip_Plumm                   ~ Philip Plumm
+Pia                            ~ Pia, called "Pretty Pia".
+Plummer                        ~ Plummer
+Podrick_Payne                  ~ Podrick Payne, a timid squire of a lesser branch of House Payne.
+Poetess                        ~ Poetess, a courtesan.
+Pollitor                       ~ Pollitor
+Polliver                       ~ Polliver, captain of Gregor Clegane's men.
+Pono                           ~ Pono
+Porridge                       ~ Porridge, a gaoler at Dragonstone.
+Porther                        ~ Porther
+Portifer_Woodwright            ~ Portifer Woodwright, a household knight.
+Poul_Pemford                   ~ Poul Pemford
+Poxy_Tym                       ~ Poxy Tym, a guardsman at Winterfell.
+Praed                          ~ Praed
+Prendahl_na_Ghezn              ~ Prendahl na Ghezn, a captain of the Stormcrows.
+Preston_Greenfield             ~ Preston Greenfield, a knight of the Kingsguard.
+Puckens                        ~ Puckens
+Pudding                        ~ Pudding
+Puddingfoot                    ~ Puddingfoot
+Pyat_Pree                      ~ Pyat Pree, one of Qarth's warlocks.
+Pycelle                        ~ Pycelle, the Grand Maester.
+Pyg                            ~ Pyg, a member of the Brave Companions.
+Pylos                          ~ Pylos, the maester of Dragonstone.
+Pypar                          ~ Pypar, a man of the Night's Watch.
+Qalen                          ~ Qalen
+Qarl_the_Maid                  ~ Qarl the Maid, an ironman.
+Qarl_the_Thrall                ~ Qarl the Thrall, an ironman.
+Qarl_Correy                    ~ Qarl Correy, a household knight.
+Qarl_Kenning                   ~ Qarl Kenning, an ironman.
+Qarl_Quickaxe                  ~ Qarl Quickaxe, an ironman.
+Qarl_Shepherd                  ~ Qarl Shepherd, an ironman.
+Qarlton_Chelsted               ~ Qarlton Chelsted, a Hand of the King.
+Qarro_Volentin                 ~ Qarro Volentin, First Sword of Braavos.
+Qezza                          ~ Qezza, a child hostage in Meereen, of the Galare family.
+Qhorin_Halfhand                ~ Qhorin Halfhand, called "Halfhand", an experienced ranger of the Night's Watch.
+Lord_Commander_Qorgyle         ~ Lord Commander Qorgyle, a leader of the Night's Watch.
+Qos                            ~ Qos
+Qotho                          ~ Qotho
+Quaithe                        ~ Quaithe of the Shadow, a shadowbinder from Asshai.
+Quaro                          ~ Quaro, one of Khal Drogo's bloodriders.
+Quellon_Botley                 ~ Quellon Botley, second son of Lord Germund Botley.
+Quellon_Greyjoy                ~ Quellon Greyjoy
+Quellon_Humble                 ~ Quellon Humble
+Quence                         ~ Quence, a mummer.
+Quent                          ~ Quent
+Quenten_Banefort               ~ Quenten Banefort
+Quentin_Tyrell                 ~ Quentin Tyrell
+Quenton_Greyjoy                ~ Quenton Greyjoy
+Quenton_Hightower              ~ Quenton Hightower
+Quentyn_Ball                   ~ Quentyn Ball, called "Fireball" .
+Quentyn_Blackwood              ~ Quentyn Blackwood
+Quentyn_Martell                ~ Quentyn Martell, oldest son of Prince Doran Martell.
+Quentyn_Qorgyle                ~ Quentyn Qorgyle, Lord of Sandstone.
+Quhuru_Mo                      ~ Quhuru Mo
+Quickfinger                    ~ Quickfinger, a failed assassin during the Blackfyre Rebellion.
+Quill                          ~ Quill, a playwright in Braavos.
+Quincy_Cox                     ~ Quincy Cox, the Knight of Saltpans.
+Quort                          ~ Quort
+Qyburn                         ~ Qyburn, a Maester stripped of his chain.
+Qyle                           ~ Qyle
+Racallio_Ryndoon               ~ Racallio Ryndoon
+Rafe                           ~ Rafe
+Rafford                        ~ Rafford, called "Raff the Sweetling" or "Raff". A soldier under Ser Gregor Clegane.
+Ragnor_Pyke                    ~ Ragnor Pyke, an ironborn raider.
+Ragwyle                        ~ Ragwyle, a wildling spearwife.
+Rainbow_Knight                 ~ Rainbow Knight, a famous knight.
+Rakharo                        ~ Rakharo, bloodrider to Daenerys Targaryen.
+Ralf_(Limper)                  ~ Ralf, known as "Ralf the Limper".
+Ralf_(Lordsport)               ~ Ralf, known as "Ralf of Lordsport".
+Ralf_(Shepherd)                ~ Ralf, known as "Ralf the Shepherd".
+Ralf_Kenning                   ~ Ralf Kenning
+Ralf_Stonehouse                ~ Ralf Stonehouse
+Ramsay_Snow                    ~ Ramsay Snow, called "The Bastard of Bolton".
+Randa                          ~ Randa
+Randyll_Tarly                  ~ Randyll Tarly, Lord of House Tarly and a Tyrell bannerman.
+Rast                           ~ Rast
+Rat_Cook                       ~ Rat Cook
+Rattleshirt                    ~ Rattleshirt, the self-styled "Lord o' Bones".
+Ravella_Swann                  ~ Ravella Swann
+Rawney                         ~ Rawney, a brother on the Quiet Isle.
+Raymar_Royce                   ~ Raymar Royce
+Raymond_Nayland                ~ Raymond Nayland
+Raymun                         ~ Raymun, better known as "Raymun Redbeard".
+Raymun_Darry                   ~ Raymun Darry
+Raymun_Fossoway                ~ Raymun Fossoway
+Raymund_Frey                   ~ Raymund Frey
+Raymund_Tyrell                 ~ Raymund Tyrell
+Raynald_Westerling             ~ Raynald Westerling
+Raynard                        ~ Raynard, a septon.
+Raynard_Ruttiger               ~ Raynard Ruttiger
+Red_Alyn_of_the_Rosewood       ~ Red Alyn of the Rosewood, a member of the Night's Watch.
+The_Red_Lamb                   ~ The Red Lamb, a former slave now in training as a squire to Ser Barristan Selmy.
+Red_Oarsman                    ~ Red Oarsman, an ironborn raider.
+Red_Rolfe                      ~ Red Rolfe, an ironborn raider.
+Redtusk                        ~ Redtusk
+Redwyn                         ~ Redwyn
+Reek                           ~ Reek, a repellent companion to Ramsay Snow.
+Regenard_Estren                ~ Regenard Estren
+Renfred_Rykker                 ~ Renfred Rykker, Lord of Duskendale.
+Renly_Baratheon                ~ Renly Baratheon, King in Highgarden.
+Renly_Norcross                 ~ Renly Norcross
+Rennifer_Longwaters            ~ Rennifer Longwaters
+Reynard_Webber                 ~ Reynard Webber, Lord of House Webber.
+Reysen                         ~ Reysen
+Reznak_mo_Reznak               ~ Reznak mo Reznak, seneschal.
+Rhae_Targaryen                 ~ Rhae Targaryen, daughter of Maekar I Targaryen.
+Rhaegar_Frey                   ~ Rhaegar Frey
+Rhaegar_Targaryen              ~ Rhaegar Targaryen, Prince of Dragonstone, heir to King Aerys II.
+Rhaegel_Targaryen              ~ Rhaegel Targaryen
+Rhaego                         ~ Rhaego, son of Daenerys Targaryen.
+Rhaella_Targaryen              ~ Rhaella Targaryen
+Rhaelle_Targaryen              ~ Rhaelle Targaryen, sister to Aegon V.
+Rhaena_Targaryen_(daughter_of_Daemon) ~ Rhaena Targaryen, daughter of Prince Daemon Targaryen and Lady Laena Velaryon
+Rhaena_Targaryen_(daughter_of_Aegon_III) ~ Rhaena Targaryen, daughter of King Aegon III Targaryen
+Rhaenys_Targaryen              ~ Rhaenys Targaryen, sister and wife to Aegon the Conquerer.
+Rhaenys_Targaryen_(daughter_of_Aemon) ~ Rhaenys Targaryen, the Queen Who Never Was.
+Rhaenys_Targaryen_(daughter_of_Rhaegar) ~ Rhaenys Targaryen, the daughter of Rhaegar Targaryen.
+Rhea_Florent                   ~ Rhea Florent
+Rhea_Royce                     ~ Rhea Royce, first wife of Prince Daemon Targaryen, Lady of Runestone.
+Rhialta_Vance                  ~ Rhialta Vance
+Rhogoro                        ~ Rhogoro
+Rhonda_Rowan                   ~ Rhonda Rowan, the wife of Ser Baelor Hightower.
+Ricasso                        ~ Ricasso
+Richard_Farrow                 ~ Richard Farrow
+Richard_Horpe                  ~ Richard Horpe, a knight.
+Richard_Lonmouth               ~ Richard Lonmouth
+Rickard_Karstark               ~ Rickard Karstark, Lord of Karhold and a Stark bannerman.
+Rickard_Ryswell                ~ Rickard Ryswell
+Rickard_Stark_(King)           ~ Rickard Stark, King in the North.
+Rickard_Stark                  ~ Rickard Stark, father of Eddard Stark.
+Rickard_Thorne                 ~ Rickard Thorne, a member of the Kingsguard during the reign of Viserys I.
+Rickard_Tyrell                 ~ Rickard Tyrell
+Rickard_Wylde                  ~ Rickard Wylde
+Rickon_Stark                   ~ Rickon Stark, youngest child of Eddard Stark.
+Rigney                         ~ Rigney
+Rob                            ~ Rob
+Robar_Royce                    ~ Robar Royce
+Robb_Reyne                     ~ Robb Reyne
+Robb_Stark                     ~ Robb Stark, eldest son of Lord Eddard Stark and Lady Catelyn Tully.
+Robert_Arryn                   ~ Robert Arryn, young Lord of the Eyrie.
+Robert_Ashford                 ~ Robert Ashford
+Robert_Baratheon               ~ Robert Baratheon, the First of his Name, King of the Seven Kingdoms.
+Robert_Brax                    ~ Robert Brax
+Robert_Brax_(son_of_Flement)   ~ Robert Brax, the eldest son of Ser Flement Brax.
+Robert_Flowers                 ~ Robert Flowers, known as "Red Robert Flowers".
+Robert_Frey                    ~ Robert Frey, the son of Rhaegar Frey.
+Robert_Frey_(son_of_Raymund)   ~ Robert Frey, the son of Ser Raymund Frey.
+Robert_Paege                   ~ Robert Paege
+Robett_Glover                  ~ Robett Glover
+Robin                          ~ Robin, the brother of Septon Meribald.
+Robin_Flint                    ~ Robin Flint, an escort for Lady Catelyn Stark. Killed at the Red Wedding.
+Robin_Greyjoy                  ~ Robin Greyjoy
+Robin_Hill                     ~ Robin Hill
+Robin_Hollard                  ~ Robin Hollard
+Robin_Moreland                 ~ Robin Moreland, head of House Moreland.
+Robin_Potter                   ~ Robin Potter
+Robin_Ryger                    ~ Robin Ryger, captain-of-the-guard at Riverrun and friend to Hoster Tully and Edmure Tully.
+Robyn_Rhysling                 ~ Robyn Rhysling
+Rodrik_Cassel                  ~ Rodrik Cassel, a knight and master-at-arms of Winterfell.
+Rodrik_Flint                   ~ Rodrik Flint
+Rodrik_Freeborn                ~ Rodrik Freeborn
+Rodrik_Greyjoy                 ~ Rodrik Greyjoy, eldest son of Balon Greyjoy, killed in the Greyjoy Rebellion.
+Rodrik_Harlaw                  ~ Rodrik Harlaw, called the Reader, Lord of Harlaw.
+Rodrik_Ryswell                 ~ Rodrik Ryswell, Lord of the Rills.
+Rodrik_Stark                   ~ Rodrik Stark
+Rodrik_Stark_(son_of_Beron)    ~ Rodrik Stark, known as Wandering Wolf.
+Rodwell_Stark                  ~ Rodwell Stark
+Roelle                         ~ Roelle
+Roger_of_Pennytree             ~ Roger of Pennytree, nephew and squire to Ser Arlan of Pennytree, died at the Battle of the Redgrass Field.
+Roger_Hogg                     ~ Roger Hogg
+Roger_Ryswell                  ~ Roger Ryswell
+Roggo                          ~ Roggo, a cutpurse.
+Rohanne_Webber                 ~ Rohanne Webber
+Roland_Crakehall_(Lord)        ~ Roland Crakehall, Lord of Crakehall.
+Roland_Crakehall_(Kingsguard)  ~ Roland Crakehall, a knight of King Daeron II's Kingsguard.
+Rolder                         ~ Rolder, a guardsman.
+Rolfe                          ~ Rolfe, an ironborn raider.
+Rollam_Westerling              ~ Rollam Westerling
+Rolland_Darklyn                ~ Rolland Darklyn, a knight of the Kingsguard.
+Rolland_Longthorpe             ~ Rolland Longthorpe, Lord of Longsister.
+Rolland_Storm                  ~ Rolland Storm
+Rolland_Uffering               ~ Rolland Uffering, Lady Rohanne Webber's fourth husband, died in the Great Spring Sickness.
+Rolley                         ~ Rolley
+Rolly_Duckfield                ~ Rolly Duckfield, a knight.
+Rolph_Spicer                   ~ Rolph Spicer
+Romny_Weaver                   ~ Romny Weaver
+Ronald_Connington              ~ Ronald Connington, cousin of Lord Jon Connington and father of Ser Ronnet Connington.
+Ronald_Storm                   ~ Ronald Storm, bastard son of Ronnet Connington.
+Ronald_Vance                   ~ Ronald Vance
+Ronel_Rivers                   ~ Ronel Rivers
+Ronnel_Arryn                   ~ Ronnel Arryn
+Ronnel_Harclay                 ~ Ronnel Harclay
+Ronnel_Stout                   ~ Ronnel Stout
+Ronnet_Connington              ~ Ronnet Connington, the Knight of Griffin's Roost.
+Roone                          ~ Roone, a novice at the Citadel.
+Roone_(maester)                ~ Roone, a maester in service to House Lychester.
+Roose_Bolton                   ~ Roose Bolton, Lord of the Dreadfort.
+Roose_Ryswell                  ~ Roose Ryswell
+Rorge                          ~ Rorge, noseless prisoner of the black cells at King's Landing.
+Roro_Uhoris                    ~ Roro Uhoris
+Roryn_Drumm                    ~ Roryn Drumm
+Rosamund_Lannister             ~ Rosamund Lannister, friend of Myrcella Lannister.
+Rosey                          ~ Rosey
+Roslin_Frey                    ~ Roslin Frey
+Rossart                        ~ Rossart, last Hand of Aerys II.
+Rowan                          ~ Rowan, a wildling spearwife.
+Royce_Coldwater                ~ Royce Coldwater, Lord of Coldwater Burn.
+Rudge                          ~ Rudge
+Rufus_Leek                     ~ Rufus Leek
+Rugen                          ~ Rugen
+Runcel_Hightower               ~ Runcel Hightower
+Runciter                       ~ Runciter, a Grand Maester
+Rupert_Brax                    ~ Rupert Brax
+Rupert_Crabb                   ~ Rupert Crabb
+Rus                            ~ Rus
+Rusty_Flowers                  ~ Rusty Flowers, member of Night's Watch.
+Ryam                           ~ Ryam, an archmaester of the Citadel.
+Ryam_Florent                   ~ Ryam Florent
+Ryam_Redwyne                   ~ Ryam Redwyne, historic Lord Commander of the Kingsguard.
+Rycherd_Crane                  ~ Rycherd Crane
+Ryella_Frey                    ~ Ryella Frey
+Ryella_Royce                   ~ Ryella Royce
+Ryger_Rivers                   ~ Ryger Rivers
+Ryk                            ~ Ryk, known as Longspear, a wildling.
+Rylene_Florent                 ~ Rylene Florent
+Ryles                          ~ Ryles
+Ryman_Frey                     ~ Ryman Frey, eldest son of Ser Stevron Frey.
+Rymolf                         ~ Rymolf
+Rymund_the_Rhymer              ~ Rymund the Rhymer, a singer.
+Ryon_Allyrion                  ~ Ryon Allyrion
+S%27vrone                      ~ S'vrone, a dockside prostitute in Braavos.
+Saathos                        ~ Saathos the Wise
+Saera_Targaryen                ~ Saera Targaryen, daughter of King Jaehaerys I Targaryen and Queen Alysanne Targaryen.
+Sailor%27s_Wife                ~ Sailor's Wife, a prostitute in Braavos.
+Salladhor_Saan                 ~ Salladhor Saan, a Lyseni pirate.
+Sallei_Paege                   ~ Sallei Paege
+Sallor                         ~ Sallor the Bald, former captain of the Stormcrows.
+Salloreon                      ~ Salloreon
+Sam_Stoops                     ~ Sam Stoops, the steward of Standfast.
+Samwell_Spicer                 ~ Samwell Spicer
+Samwell_Stone                  ~ Samwell Stone, called "Strong Sam Stone".
+Samwell_Tarly                  ~ Samwell Tarly, sometimes called "Sam the Slayer" or "Lord Piggy".
+Sandor_Clegane                 ~ Sandor Clegane, known throughout Westeros as "The Hound". Member of the Kingsguard.
+Sandor_Frey                    ~ Sandor Frey
+Sansa_Stark                    ~ Sansa Stark
+Sarella_Sand                   ~ Sarella Sand, fourth of the Sand Snakes, illegitimate daughter of Oberyn Martell.
+Sargon_Botley                  ~ Sargon Botley
+Sarra_Frey                     ~ Sarra Frey
+Sarya_Whent                    ~ Sarya Whent, the fifth wife of Lord Walder Frey
+Satin                          ~ Satin, soldier of the Night's Watch.
+Sawane_Botley                  ~ Sawane Botley, Lord of Lordsport on Pyke.
+Sawwood                        ~ Sawwood
+Scarb                          ~ Scarb
+Scolera                        ~ Scolera, a septa.
+Sebaston_Farman                ~ Sebaston Farman, Lord of Fair Isle.
+Sedgekins                      ~ Sedgekins
+Sefton_Staunton                ~ Sefton, a septon.
+Selmond_Stackspear             ~ Selmond Stackspear
+Selwyn_Tarth                   ~ Selwyn Tarth, called the Evenstar, Lord of Tarth.
+Selyse_Florent                 ~ Selyse Florent, of House Florent, wife of Stannis Baratheon.
+Senelle                        ~ Senelle
+Serala                         ~ Serala of Myr.
+Serra                          ~ Serra, the second wife of Illyrio Mopatis.
+Serra_Frey                     ~ Serra Frey
+Serwyn                         ~ Serwyn of the Mirror Shield, a legendary Kingsguard knight.
+Shadrick                       ~ Shadrick of the Shady Glen, a hedge knight in Hibald's service.
+Shae                           ~ Shae, 18-year-old whore in the service of Tyrion Lannister during his tenure as King Joffrey's Hand.
+Shagga                         ~ Shagga, son of Dolf. A leader of the Stone Crows clan from the Mountains of the Moon.
+Shagwell                       ~ Shagwell, called "the Fool". A member of the Brave Companions
+Sharna                         ~ Sharna, innkeep at the Inn of the Kneeling Man.
+Shella                         ~ Shella, the famous love of the Rainbow Knight.
+Shella_Whent                   ~ Shella Whent, formerly Lady of Harrenhal.
+Sherrit                        ~ Sherrit
+Shiera_Crakehall               ~ Shiera Crakehall
+Shiera_Seastar                 ~ Shiera Seastar, one of the Great Bastards of King Aegon IV. Frequent paramour of Lord Bloodraven.
+Shierle_Swyft                  ~ Shierle Swyft
+Shireen_Baratheon              ~ Shireen Baratheon, young daughter of Stannis Baratheon who has been deformed by the greyscale disease.
+Shirei_Frey                    ~ Shirei Frey
+Shortear                       ~ Shortear
+Shyra                          ~ Shyra
+Shyra_Errol                    ~ Shyra Errol
+Sigfry_Stonetree               ~ Sigfry Stonetree
+Sigfryd_Harlaw                 ~ Sigfryd Harlaw
+Sigrin                         ~ Sigrin, a Lordsport shipwright.
+Simon_Leygood                  ~ Simon Leygood, suitor of Rohanne Webber.
+Simon_Staunton                 ~ Simon Staunton, Lady Rohanne Webber's third husband, choked upon a chicken bone.
+Simon_Toyne                    ~ Simon Toyne, an infamous outlaw of the Kingswood Brotherhood. Killed by Ser Barristan the Bold.
+Skahaz_mo_Kandaq               ~ Skahaz mo Kandaq, the Shavepate.
+Skinner                        ~ Skinner, one of Ramsay Bolton's Bastard's Boys.
+Skittrick                      ~ Skittrick
+Sky_Blue_Su                    ~ Sky Blue Su
+Skyte                          ~ Skyte
+Sleepy_Jack                    ~ Sleepy Jack, a former Lord Commander of the Night's Watch.
+Sloey                          ~ Sloey, a mummer.
+Small_Paul                     ~ Small Paul, a man of the Night's Watch.
+Smiling_Knight                 ~ Smiling Knight, an infamous outlaw of the Kingswood Brotherhood. Killed by Ser Arthur Dayne.
+Soren_Shieldbreaker            ~ Soren Shieldbreaker, a famed wildling warrior.
+Sour_Alyn                      ~ Sour Alyn, one of Ramsay Bolton's Bastard's Boys.
+Spare_Boot                     ~ Spare Boot
+Softfoot                       ~ Softfoot, a member of the Night's Watch.
+Spotted_Cat                    ~ Spotted Cat, a pit fighter in Meereen.
+Spotted_Pate_of_Maidenpool     ~ Spotted Pate of Maidenpool, a member of the Night's Watch.
+Squint                         ~ Squint
+Squirrel                       ~ Squirrel, a wildling spearwife.
+Stafford_Lannister             ~ Stafford Lannister
+Stalwart_Shield                ~ Stalwart Shield, an Unsullied.
+Stannis_Baratheon              ~ Stannis Baratheon, brother of King Robert Baratheon.
+Stannis_Seaworth               ~ Stannis Seaworth, son of Davos Seaworth.
+Lord_Staunton                  ~ Lord Staunton, Lord of Rook's Rest during the Dance of the Dragons.
+Steelskin                      ~ Steelskin, a pit fighter in Meereen, later made a guard to Hizdahr zo Loraq.
+Steely_Pate                    ~ Steely Pate
+Steffarion_Sparr               ~ Steffarion Sparr
+Steffon_Baratheon              ~ Steffon Baratheon, father of Robert, Stannis, and Renly.
+Steffon_Fossoway               ~ Steffon Fossoway
+Steffon_Frey                   ~ Steffon Frey
+Steffon_Hollard                ~ Steffon Hollard
+Steffon_Seaworth               ~ Steffon Seaworth, youngest son of Davos Seaworth.
+Steffon_Stackspear             ~ Steffon Stackspear
+Steffon_Swyft                  ~ Steffon Swyft
+Steffon_Darklyn                ~ Steffon Darklyn, a member of the Kingsguard during the reign of Viserys I.
+Steffon_Varner                 ~ Steffon Varner
+Stevron_Frey                   ~ Stevron Frey, heir to The Twins.
+Stiv                           ~ Stiv
+Stone_Thumbs                   ~ Stone Thumbs
+Stonehand                      ~ Stonehand, an ironborn raider.
+Stonesnake                     ~ Stonesnake, a member of the Night's Watch.
+Stygg                          ~ Stygg
+Styr                           ~ Styr, called "the Magnar of Thenn". Leader of the Thenn.
+Sumner_Crakehall               ~ Sumner Crakehall
+Sybassion                      ~ Sybassion, the Eater of Eyes.
+Sybell_Spicer                  ~ Sybell Spicer
+Sybelle_Glover                 ~ Sybelle Glover, wife of Master Robett Glover
+Sylas                          ~ Sylas
+Sylas_Flatnose                 ~ Sylas Flatnose
+Sylva_Santagar                 ~ Sylva Santagar, close companion of Princess Arianne Martell.
+Sylwa_Paege                    ~ Sylwa Paege
+Symeon_Star-Eyes               ~ Symeon Star-Eyes, legendary hero.
+Symon_Hollard                  ~ Symon Hollard
+Symon_Santagar                 ~ Symon Santagar, the Knight of Spottswood.
+Symon_Silver_Tongue            ~ Symon Silver Tongue, a singer.
+Symon_Stripeback               ~ Symon Stripeback, former slave
+Symond_Botley                  ~ Symond Botley, a younger son of Lord Sawane Botley.
+Symond_Frey                    ~ Symond Frey
+Symond_Templeton               ~ Symond Templeton, the Knight of Ninestars.
+Syrio_Forel                    ~ Syrio Forel, former First Sword of Braavos.
+Taena_of_Myr                   ~ Taena of Myr, Myrish beauty. Wife of Orton Merryweather and Lady of the House. Confidante and pillow-friend to Queen Cersei.
+Tagganaro                      ~ Tagganaro, a cutpurse.
+Tal_Toraq                      ~ Tal Toraq, a Summer Islander and former slave, freed by Daenerys Targaryen, later named commander of the Stalwart Shields.
+Talea                          ~ Talea, the daughter of Brusco.
+Talla_Tarly                    ~ Talla Tarly
+Tallad                         ~ Tallad, called Tallad the Tall, a knight.
+Tanda_Stokeworth               ~ Tanda Stokeworth, Lady of House Stokeworth.
+Tanselle                       ~ Tanselle, called "Tanselle Too-Tall", a Dornish puppeteer accosted by Aerion Brightflame and rescued by Ser Duncan the Tall.
+Tansy                          ~ Tansy, a serving wench.
+Tansy_(orphan)                 ~ Tansy, an orphan.
+Tanton_Fossoway                ~ Tanton Fossoway
+Tarber                         ~ Tarber
+Tarle                          ~ Tarle, the Thrice-Drowned.
+Temmo                          ~ Temmo
+Ternesio_Terys                 ~ Ternesio Terys
+Terrance_Lynderly              ~ Terrance Lynderly, the heir to the Snakewood.
+Terrence_Kenning               ~ Terrence Kenning
+Terrence_Toyne                 ~ Terrence Toyne
+Terro                          ~ Terro, a bravo.
+Theo_Frey                      ~ Theo Frey
+Theo_Wull                      ~ Theo Wull
+Theobald                       ~ Theobald, an archmaester.
+Theodan_Wells                  ~ Theodan Wells, a pious knight.
+Theodore_Tyrell                ~ Theodore Tyrell
+Theomar_Smallwood              ~ Theomar Smallwood, Lord of Acorn Hall.
+Theomore                       ~ Theomore, a maester in service at White Harbor.
+Theomore_Harlaw                ~ Theomore Harlaw
+Theon_Greyjoy                  ~ Theon Greyjoy, only living son of Balon Greyjoy and heir to the Iron Islands.
+Theon_Stark                    ~ Theon Stark
+Thistle                        ~ Thistle, a wildling.
+Thoren_Smallwood               ~ Thoren Smallwood
+Thormor_Ironmaker              ~ Thormor Ironmaker
+Thoros_of_Myr                  ~ Thoros of Myr, a red priest of R'hllor in King's Landing.
+Three_Toes                     ~ Three Toes, a Brave Companion.
+Three-Tooth                    ~ Three-Tooth
+Tickler                        ~ The Tickler, a soldier and expert torturer serving Gregor Clegane.
+Tim_Stone                      ~ Tim Stone, a ranger and Sworn Brother of the Night's Watch.
+Tim_Tangletongue               ~ Tim Tangletongue, a steward at Castle Black.
+Timeon                         ~ Timeon of Dorne, a Brave Companion.
+Timett                         ~ Timett, son of Timett. Leader of the Burned Men clan of the Mountains of the Moon.
+Timett_(father)                ~ Timett, father of Timett.
+Timon                          ~ Timon the Scrapesword, a famed knight.
+Timoth                         ~ Timoth, a servant.
+Tion_Frey                      ~ Tion Frey, son of Emmon Frey and Genna Lannister.
+Titus_Peake                    ~ Titus Peake
+Tobbot                         ~ Tobbot
+Tobho_Mott                     ~ Tobho Mott, a master armorer in King's Landing.
+Todder                         ~ Todder
+Todric                         ~ Todric
+Toefinger                      ~ Toefinger
+Togg_Joth                      ~ Togg Joth, a Brave Companion. Originally from Ibben.
+Tom_Costayne                   ~ Tom Costayne, known as "Long Tom Costayne".
+Tom_of_Sevenstreams            ~ Tom of Sevenstreams, a singer. Also called Tom O'Sevens.
+TomToo                         ~ TomToo, son of Tomard
+Tomard                         ~ Tomard, called "Fat Tom". A guardsman at King's Landing.
+Tommard_Heddle                 ~ Tommard Heddle
+Tommen_Baratheon               ~ Tommen Baratheon, youngest child of Robert Baratheon and Cersei Lannister.
+Tommen_Costayne                ~ Tommen Costayne
+Torbert                        ~ Torbert
+Toregg                         ~ Toregg the Tall, eldest son of Tormund Giantsbane.
+Tormund                        ~ Tormund, known as "Giantsbane" among other titles.
+Torrek                         ~ Torrek
+Torren_Liddle                  ~ Torren Liddle, the Liddle.
+Torrhen_Karstark               ~ Torrhen Karstark
+Torrhen_Stark                  ~ Torrhen Stark, the King Who Knelt.
+Torwold_Browntooth             ~ Torwold Browntooth
+Torwynd                        ~ Torwynd
+Tothmure                       ~ Tothmure
+Trebor_Jordayne                ~ Trebor Jordayne, Lord of the Tor.
+Tregar                         ~ Tregar
+Tregar_Ormollen                ~ Tregar Ormollen
+Tremond_Gargalen               ~ Tremond Gargalen, Lord of Salt Shore.
+Tristan_Mudd                   ~ Tristan Mudd, a Lord Commander of the Night's Watch
+Tristan_Ryger                  ~ Tristan Ryger
+Tristifer_Botley               ~ Tristifer Botley
+Tristifer_IV_Mudd              ~ Tristifer IV Mudd
+Tristifer_V_Mudd               ~ Tristifer V Mudd
+Tristimun                      ~ Tristimun
+Triston_of_Tally_Hill          ~ Triston of Tally Hill, a knight.
+Triston_Farwynd                ~ Triston Farwynd, Lord of Sealskin Point.
+Triston_Sunderland             ~ Triston Sunderland, Lord of the Three Sisters.
+Trystane_Martell               ~ Trystane Martell, youngest child of Prince Doran Martell.
+Tuffleberry                    ~ Tuffleberry
+Tumberjon                      ~ Tumberjon
+Tumco_Lho                      ~ Tumco Lho, a Basilisk Islander and former pit fighting slave, now in training as a squire to Ser Barristan Selmy.
+Turnip                         ~ Turnip
+Turquin                        ~ Turquin
+Tya_Lannister                  ~ Tya Lannister
+Tyana_Wylde                    ~ Tyana Wylde
+Tybero_Istarion                ~ Tybero Istarion, called "Inkpots", paymaster of the sellsword company the Second Sons.
+Tybolt_Crakehall               ~ Tybolt Crakehall
+Tybolt_Hetherspoon             ~ Tybolt Hetherspoon
+Tybolt_Lannister               ~ Tybolt Lannister
+Tycho_Nestoris                 ~ Tycho Nestoris, envoy of the Iron Bank.
+Tyene_Sand                     ~ Tyene Sand, third of the Sand Snakes, illegitimate daughter of Oberyn Martell.
+Tygett_Lannister               ~ Tygett Lannister
+Tyland_Lannister               ~ Tyland Lannister, master of ships during the reign of Viserys I.
+Tymor                          ~ Tymor
+Tyrek_Lannister                ~ Tyrek Lannister
+Tyrion_Lannister               ~ Tyrion Lannister, called "The Imp".
+Tyrion_Tanner                  ~ Tyrion Tanner
+Tysane_Frey                    ~ Tysane Frey, eldest daughter of Lothar Frey.
+Tysha                          ~ Tysha, Tyrion Lannister's first wife
+Tyta_Frey                      ~ Tyta Frey
+Tytos_Blackwood                ~ Tytos Blackwood, Lord of House Blackwood.
+Tytos_Brax                     ~ Tytos Brax
+Tytos_Frey                     ~ Tytos Frey
+Tytos_Lannister                ~ Tytos Lannister
+Tywin_Frey                     ~ Tywin Frey, son of Ser Cleos Frey.
+Tywin_Frey_(son_of_Raymund)    ~ Tywin Frey, the son of Ser Raymund Frey,
+Tywin_Lannister                ~ Tywin Lannister, Lord of Casterly Rock, father of Jaime, Cersei, and Tyrion Lannister.
+Ulf_son_of_Umar                ~ Ulf son of Umar, of the Moon Brothers.
+Ulf_the_Ill                    ~ Ulf the Ill, an ironborn raider placed under Theon's authority.
+Ulf_the_White                  ~ Ulf the White
+Uller                          ~ Uller
+Ulmer                          ~ Ulmer
+Ulrick_Dayne                   ~ Ulrick Dayne, a past Sword of the Morning.
+Ulwyck_Uller                   ~ Ulwyck Uller
+Umar                           ~ Umar, the father of Ulf.
+Umfred                         ~ Umfred
+Umma                           ~ Umma, a cook.
+Unella                         ~ Unella, a septa.
+Urreg                          ~ Urreg
+Urek_Ironmaker                 ~ Urek Ironmaker, grandson of Erik Ironmaker.
+Urras_Ironfoot                 ~ Urras Ironfoot
+Urrathon                       ~ Urrathon Night-Walker
+Urrigon_Greyjoy                ~ Urrigon Greyjoy
+Urron_Greyiron                 ~ Urron Greyiron
+Urswyck                        ~ Urswyck, called "Faithful Urswyck". A member of the Brave Companions mercenary company.
+Urzen                          ~ Urzen
+Utherydes_Wayn                 ~ Utherydes Wayn, steward of Riverrun and House Tully.
+Uthor_Tollett                  ~ Uthor Tollett, the Lord of the Grey Glen.
+Uthor_Underleaf                ~ Uthor Underleaf
+Utt                            ~ Utt, a septon and member of the Brave Companions mercenary company.
+Vaellyn                        ~ Vaellyn, an Archamester.
+Vaemond_Velaryon               ~ Vaemond Velaryon
+Val                            ~ Val
+Valaena_Velaryon               ~ Valaena Velaryon, mother of Aegon the Conqueror and his sisters Visenya and Rhaenys.
+Valarr_Targaryen               ~ Valarr Targaryen
+Varamyr                        ~ Varamyr, called "Varamyr Sixskins". A wildling skinchanger.
+Vardis_Egen                    ~ Vardis Egen, knight and Captain-of-guards at the Eyrie.
+Vargo_Hoat                     ~ Vargo Hoat, captain of the Brave Companions, a sellsword company. A Qohorik. Known for hacking limbs (typically hands and feet) off captives.
+Varly                          ~ Varly
+Varys                          ~ Varys, the Spider. Lord of Whispers.
+Vayon_Poole                    ~ Vayon Poole, steward to Winterfell and House Stark.
+Veiled_Lady                    ~ Veiled Lady, a courtesan.
+Vickon_Botley                  ~ Vickon Botley, a younger son of Lord Sawane.
+Vickon_Greyjoy                 ~ Vickon Greyjoy
+Victaria_Tyrell                ~ Victaria Tyrell
+Victarion_Greyjoy              ~ Victarion Greyjoy, brother of Lord Balon, Captain of the Iron Fleet.
+Victor_Tyrell                  ~ Victor Tyrell
+Violet                         ~ Violet
+Visenya_Targaryen              ~ Visenya Targaryen, sister and wife to Aegon the Conquerer.
+Viserys_Plumm                  ~ Viserys Plumm
+Viserys_Targaryen              ~ Viserys Targaryen, exiled son of Aerys II, calling himself King Viserys III.
+Viserys_I_Targaryen            ~ Viserys I Targaryen
+Viserys_II_Targaryen           ~ Viserys II Targaryen
+Vortimer_Crane                 ~ Vortimer Crane
+Vulture_King                   ~ Vulture King
+Vylarr                         ~ Vylarr
+Vyman                          ~ Vyman
+Waif                           ~ The Waif
+Walda_Frey_(daughter_of_Edwyn) ~ Walda Frey, the daughter of Edwyn Frey.
+Walda_Frey_(daughter_of_Lothar) ~ Walda Frey, the daughter of Lothar Frey.
+Walda_Frey_(daughter_of_Walton) ~ Walda Frey, called "Fair Walda".
+Walda_Frey_(daughter_of_Merrett) ~ Walda Frey, called "Fat Walda".
+Walda_Frey_(daughter_of_Rhaegar) ~ Walda Frey, called "White Walda".
+Walda_Rivers                   ~ Walda Rivers, the daughter of Ser Walder Rivers.
+Walda_Rivers_(daughter_of_Aemon) ~ Walda Rivers, the young daughter of Ser Aemon Rivers.
+Walder_Brax                    ~ Walder Brax
+Walder_Frey_(son_of_Jammos)    ~ Walder Frey, called "Big Walder". A ward of Winterfell.
+Walder_Frey_(son_of_Ryman)     ~ Walder Frey, called "Black Walder".
+Walder_Frey_(son_of_Merrett)   ~ Walder Frey, called "Little Walder". A ward of Winterfell.
+Walder_Frey_(son_of_Emmon)     ~ Walder Frey, called "Red Walder".
+Walder_Frey                    ~ Walder Frey, called "The Late Lord Frey". Lord of the Crossing.
+Walder_Goodbrook               ~ Walder Goodbrook
+Walder_Haigh                   ~ Walder Haigh
+Walder_Rivers                  ~ Walder Rivers, called "Bastard Walder".
+Walder_Vance                   ~ Walder Vance.
+Waldon_Wynch                   ~ Waldon Wynch, Lord of Iron Holt.
+Walgrave                       ~ Walgrave
+Wallace_Waynwood               ~ Wallace Waynwood, the youngest son of Lady Anya Waynwood.
+Wallen                         ~ Wallen
+Walton_Frey                    ~ Walton Frey
+Walton_Stark                   ~ Walton Stark
+Walton                         ~ Walton, called "Steelshanks." Captain of Roose Bolton's guards.
+Waltyr_Frey                    ~ Waltyr Frey
+Walys_Flowers                  ~ Walys Flowers
+Warren                         ~ Warren
+Warryn_Beesbury                ~ Warryn Beesbury, Lord of Honeyholt.
+Wat                            ~ Wat, member of the Night's Watch.
+Wat_(Barleycorn)               ~ Wat, known as Wat Barleycorn.
+Blue_Bard                      ~ Wat the Blue Bard, a singer.
+Wat_(orphan)                   ~ Wat, an orphan.
+Wat_(sailor)                   ~ Wat, a member of the crew of the Brazen Monkey.
+Wat_(Standfast)                ~ Wat, in service at Standfast.
+Wat_(Wet)                      ~ Wat, known as Wet Wat.
+Wat_(Whitesmile)               ~ Wat, better known as 'Whitesmile Wat'. A singer.
+Wate                           ~ Wate
+Watt                           ~ Watt
+Watty                          ~ Watty
+Waymar_Royce                   ~ Waymar Royce.
+Wayn_(guard)                   ~ Wayn, a guard of House Stark.
+Weasel                         ~ Weasel
+Weeper                         ~ The Weeper, an infamous wildling raider.
+Weese                          ~ Weese, servant overseer at Harrenhal. A soldier in the service of Ser Gregor Clegane.
+Wenda                          ~ Wenda
+Wendamyr                       ~ Wendamyr, a Maester in service on Pyke.
+Wendel_Frey                    ~ Wendel Frey
+Wendel_Manderly                ~ Wendel Manderly, second son of Lord Wyman Manderly.
+Wendell_Webber                 ~ Wendell Webber
+Wendello_Qar_Deeth             ~ Wendello Qar Deeth
+Werlag                         ~ Werlag
+Wex_Pyke                       ~ Wex Pyke, squire to Prince Theon Greyjoy.
+Whalen_Frey                    ~ Whalen Frey
+Wilbert                        ~ Wilbert, the Knight of Stoney Sept.
+Wilbert_Osgrey                 ~ Wilbert Osgrey, the "Little Lion".
+Will                           ~ Will, a ranger of the Night's Watch.
+Will_(Fletcher)                ~ Will, called Fletcher Will.
+Will_(Hookface)                ~ Will, called "Hookface". a guard at Dragonstone.
+Will_(orphan)                  ~ Will, an orphan.
+Will_(squire)                  ~ Will, the squire of Ser Uthor Underleaf.
+Will_(Standfast)               ~ Will, in service at Standfast.
+Will_(Stork)                   ~ Will, a knight known as "Will the Stork".
+Will_(Treb)                    ~ Will, nicknamed Treb.
+Will_Humble                    ~ Will Humble
+Willamen_Frey                  ~ Willamen Frey, a maester.
+Willam                         ~ Willam, the brother of Septon Meribald.
+Willam_Dustin                  ~ Willam Dustin, slain fighting the Kingsguard at the Tower of Joy.
+Willam_Stark                   ~ Willam Stark
+Willam_Wells                   ~ Willam Wells, a knight.
+Willam_Wythers                 ~ Willam Wythers, captain of the guard.
+Willas_Tyrell                  ~ Willas Tyrell, heir to Highgarden. A cripple.
+Willem_Darry                   ~ Willem Darry, master-at-arms for the Red Keep.
+Willem_Frey                    ~ Willem Frey, son of Ser Cleos Frey.
+Willem_Lannister               ~ Willem Lannister, son of Ser Kevan Lannister.
+Willem_Wylde                   ~ Willem Wylde, a knight of the Kingsguard during the reign of Daeron II.
+William_Mooton                 ~ William Mooton, the Lord of Maidenpool.
+Willifer                       ~ Willifer, an archmaester of the Citadel.
+Willis_Fell                    ~ Willis Fell, a member of the Kingsguard during the reign of Viserys I.
+Willis_Wode                    ~ Willis Wode
+Willit                         ~ Willit
+Willow_Heddle                  ~ Willow Heddle, sister of Jeyne Heddle.
+Willow_Witch-eye               ~ Willow Witch-eye, a wildling spearwife.
+Willum                         ~ Willum, an old knight.
+Wolmer                         ~ Wolmer
+Woth                           ~ Woth
+Wulfe                          ~ Wulfe
+Wun_Weg_Wun_Dar_Wun            ~ Wun Weg Wun Dar Wun, a giant, called Wun Wun.
+Wyl_(guard)                    ~ Wyl, a guard of House Stark.
+Wyl_the_Whittler               ~ Wyl the Whittler
+Wyl_Waynwood                   ~ Wyl Waynwood, slain at the Battle of the Redgrass Field.
+Wylis_Manderly                 ~ Wylis Manderly, a knight and heir to White Harbor.
+Wylla                          ~ Wylla, servant of House Dayne.
+Wylla_Manderly                 ~ Wylla Manderly
+Wyman_Manderly                 ~ Wyman Manderly, Lord of White Harbor.
+Wynafrei_Whent                 ~ Wynafrei Whent
+Wynafryd_Manderly              ~ Wynafryd Manderly, the eldest daughter of Ser Wylis Manderly.
+Wynton_Stout                   ~ Wynton Stout, an elderly knight of the Night's Watch.
+Xaro_Xhoan_Daxos               ~ Xaro Xhoan Daxos, a merchant prince of Qarth.
+Xhondo                         ~ Xhondo
+Yandry                         ~ Yandry, master of the poleboat, Shy Maid.
+Yellow_Dick                    ~ Yellow Dick, man-at-arms sworn to House Bolton.
+Ygon_Farwynd                   ~ Ygon Farwynd
+Ygon_Oldfather                 ~ Ygon Oldfather, a wildling clan chief.
+Ygritte                        ~ Ygritte, a red-haired wildling woman said to be lucky and kissed by fire.
+Yna                            ~ Yna, a prostitute at the Happy Port.
+Yohn_Farwynd                   ~ Yohn Farwynd
+Yohn_Royce                     ~ Yohn Royce, called "Bronze Yohn". Lord of Runestone.
+Yoren                          ~ Yoren, senior "Wandering Crow" or recruiter for the Night's Watch.
+Yorkel                         ~ Yorkel
+Yorko_Terys                    ~ Yorko Terys
+Yormwell                       ~ Yormwell
+Young_Henly                    ~ Young Henly, a member of the Night's Watch.
+Ysilla                         ~ Ysilla, the wife of Yandry.
+Ysilla_Royce                   ~ Ysilla Royce
+Zachery_Frey                   ~ Zachery Frey
+Zarabelo                       ~ Zarabelo, an archmaster of the Citadel.
+Zei                            ~ Zei
+Zekko                          ~ Zekko
+Zharaq_zo_Loraq                ~ Zharaq zo Loraq, called "the Liberator", a famous ancestor of the House of Loraq.
+Zhoe_Blanetree                 ~ Zhoe Blanetree
+Zia_Frey                       ~ Zia Frey
+Zollo                          ~ Zollo, called "Fat Zollo". A Dothraki sellsword and member of the Brave Companions.
