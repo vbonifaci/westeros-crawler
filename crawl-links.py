@@ -6,7 +6,7 @@ import networkx as nx
 
 BASE = 'http://awoiaf.westeros.org/index.php/'
 opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')] # fake browser agent
+opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
 def read_dic(fname, side):
 	dic = {}

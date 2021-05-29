@@ -12,14 +12,11 @@ soup = BeautifulSoup(page)
 
 items = soup.find_all('li')
 for item in items: 
-	#print item.get_text().strip() + '\t' + item['href']
-	#print item
 	id = item.find('a')
 	if id==None: continue
 	id = id['href']
 	if id==None: continue
 	id = id[len('/index.php/'):].strip()
 	desc = item.get_text().strip()
-	#print id, "\t~\t", desc.encode("ascii","ignore")
 	print '{:30} ~ {}'.format(id, desc.encode("ascii","ignore"))
  
