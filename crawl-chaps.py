@@ -22,7 +22,7 @@ has_appendix = [True, True, True, True, True]
 
 BASE = 'http://awoiaf.westeros.org/index.php/'
 opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')] # fake browser agent
+opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
 
 b = 0
